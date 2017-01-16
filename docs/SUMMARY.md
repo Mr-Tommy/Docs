@@ -1,8 +1,5 @@
 # Summary
 
-## Part I - Quick Start Guide
-* [Introduction of AspectCore Project](README.md)
-
-## Part Ⅱ - AspectCore Abstractions
+* [简介](README.md)
 * [Overview of AspectCore Abstractions](abstractions/README.md)
 
