@@ -1,4 +1,4 @@
-## Overview of AspectCore Project
+## AspectCore Project 简介
 
 ### 什么是AspectCore Project ?
 [AspectCore Project](https://github.com/aspectcore) 是适用于[Asp.Net Core](https://docs.microsoft.com/en-us/aspnet/core/) 平台的轻量级 [Aop(Aspect-oriented programming)](https://en.wikipedia.org/wiki/Aspect-oriented_programming) 解决方案，它更好的遵循Asp.Net Core的模块化开发理念，使用AspectCore可以更容易构建低耦合、易扩展的Web应用程序。
