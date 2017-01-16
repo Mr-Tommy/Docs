@@ -1,6 +1,5 @@
 # Summary
 
-## Part I - aspectcore Lite
-* [1.1 前言](README.md)
-
+## Part I - AspectCore Abstractions
+* [1.1 前言](abstractions/README.md)
 
