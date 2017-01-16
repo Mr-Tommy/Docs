@@ -4,5 +4,6 @@
 * [Quick Start](README.md)
 
 ## Part Ⅱ - AspectCore Abstractions
-* [1.1 前言](abstractions/README.md)
+* [Overview of AspectCore Abstractions
+](abstractions/README.md)
 
