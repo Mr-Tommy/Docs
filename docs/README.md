@@ -21,7 +21,6 @@
 
 目前已完成的组件包括：
 * [AspectCore.Lite.Abstractions](http://www.nuget.org/packages/AspectCore.Lite.Abstractions/) 提供Aop的抽象接口
-* [AspectCore.Lite.Abstractions.Resolution](http://www.nuget.org/packages/AspectCore.Lite.Abstractions.Resolution/) 默认的Aop实现
 * [AspectCore.Lite.Container.DependencyInjection](http://www.nuget.org/packages/AspectCore.Lite.Container.DependencyInjection/) AspectCore的DependencyInjection支持
 * [AspectCore.Lite.Container.Autofac](AspectCore.Lite.Container.Autofac) AspectCore的Autofac支持
 
