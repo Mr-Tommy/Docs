@@ -20,10 +20,12 @@
 从上图可以看出，[AspectCore Abstractions](https://github.com/AspectCore/Abstractions) 是AspectCore Project的核心，向下通过IoC来集成到Asp.Net Core应用程序中，向上提供配置系统，动态代理系统，模型验证系统以及更多的扩展系统。
 
 目前已完成的组件包括：
-* [AspectCore.Lite.Abstractions](http://www.nuget.org/packages/AspectCore.Lite.Abstractions/) 提供Aop的抽象接口
-* [AspectCore.Lite.Container.DependencyInjection](http://www.nuget.org/packages/AspectCore.Lite.Container.DependencyInjection/) AspectCore的DependencyInjection支持
-* [AspectCore.Lite.Container.Autofac](AspectCore.Lite.Container.Autofac) AspectCore的Autofac支持
-
+* [AspectCore.Abstractions](http://www.nuget.org/packages/AspectCore.Abstractions/) 提供Aop的抽象接口
+* [AspectCore.Container.DependencyInjection](http://www.nuget.org/packages/AspectCore.Container.DependencyInjection/) AspectCore的DependencyInjection支持
+* [AspectCore.Container.Autofac](https://www.nuget.org/packages/AspectCore.Container.Autofac/) AspectCore的Autofac支持
+* [AspectCore.Extensions.Configuration](https://www.nuget.org/packages/AspectCore.Extensions.Configuration/) AspectCore的配置系统
+* [AspectCore.Extensions.Configuration.Files](https://www.nuget.org/packages/AspectCore.Extensions.Configuration.Files/) AspectCore的配置文件支持
+* [AspectCore.Extensions.DynamicProxy](https://www.nuget.org/packages/AspectCore.Extensions.DynamicProxy/) AspectCore 动态代理
 ### 在Asp.Net Core应用程序中开始使用AspectCore
 1. 启动 Visual Studio。从 File 菜单, 选择 New > Project。选择 ASP.NET Core Web Application 项目模版，创建新的 ASP.NET Core Web Application 项目。
 2. 从 Nuget 安装 AspectCore.Lite.Container.DependencyInjection package:
