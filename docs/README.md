@@ -30,7 +30,7 @@
 1. 启动 Visual Studio。从 File 菜单, 选择 New > Project。选择 ASP.NET Core Web Application 项目模版，创建新的 ASP.NET Core Web Application 项目。
 2. 从 Nuget 安装 AspectCore.Lite.Container.DependencyInjection package:
     ```
-    PM>   Install-Package AspectCore.Lite.Container.DependencyInjection -Pre
+    PM>   Install-Package AspectCore.Container.DependencyInjection -Pre
     ```
 3. 在拦截器系统中，AspectCore定义了`IInterceptor`接口，它声明了一个返回值为Task的异步执行方法：
     ```
