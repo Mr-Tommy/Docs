@@ -15,7 +15,7 @@
 * 支持跨平台的Asp.Net Core环境
 
 ### AspectCore Project 架构设计
-<img src="images/aspectcofe-architecture.png" alt="深入理解C#" height="320"/>
+<img src="/images/aspectcofe-architecture.png" alt="深入理解C#" height="320"/>
 
 从上图可以看出，[AspectCore Abstractions](https://github.com/AspectCore/Abstractions) 是AspectCore Project的核心，向下通过IoC来集成到Asp.Net Core应用程序中，向上提供配置系统，动态代理系统，模型验证系统以及更多的扩展系统。
 
