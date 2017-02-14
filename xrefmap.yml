@@ -3120,6 +3120,111 @@ references:
   commentId: Overload:AspectCore.Container.DependencyInjection.ServiceCollectionExtensions.AddAspectConfigure
   fullName: AspectCore.Container.DependencyInjection.ServiceCollectionExtensions.AddAspectConfigure
   nameWithType: ServiceCollectionExtensions.AddAspectConfigure
+- uid: AspectCore.Extensions.Autofac
+  name: AspectCore.Extensions.Autofac
+  href: api/AspectCore.Extensions.Autofac.html
+  commentId: N:AspectCore.Extensions.Autofac
+  fullName: AspectCore.Extensions.Autofac
+  nameWithType: AspectCore.Extensions.Autofac
+- uid: AspectCore.Extensions.Autofac.ContainerBuilderExtensions
+  name: ContainerBuilderExtensions
+  href: api/AspectCore.Extensions.Autofac.ContainerBuilderExtensions.html
+  commentId: T:AspectCore.Extensions.Autofac.ContainerBuilderExtensions
+  fullName: AspectCore.Extensions.Autofac.ContainerBuilderExtensions
+  nameWithType: ContainerBuilderExtensions
+- uid: AspectCore.Extensions.Autofac.ContainerBuilderExtensions.RegisterAspectCore(ContainerBuilder)
+  name: RegisterAspectCore(ContainerBuilder)
+  href: api/AspectCore.Extensions.Autofac.ContainerBuilderExtensions.html#AspectCore_Extensions_Autofac_ContainerBuilderExtensions_RegisterAspectCore_ContainerBuilder_
+  commentId: M:AspectCore.Extensions.Autofac.ContainerBuilderExtensions.RegisterAspectCore(ContainerBuilder)
+  fullName: AspectCore.Extensions.Autofac.ContainerBuilderExtensions.RegisterAspectCore(ContainerBuilder)
+  nameWithType: ContainerBuilderExtensions.RegisterAspectCore(ContainerBuilder)
+- uid: AspectCore.Extensions.Autofac.ContainerBuilderExtensions.RegisterAspectCore(ContainerBuilder,System.Action{IAspectConfigure})
+  name: RegisterAspectCore(ContainerBuilder, Action<IAspectConfigure>)
+  href: api/AspectCore.Extensions.Autofac.ContainerBuilderExtensions.html#AspectCore_Extensions_Autofac_ContainerBuilderExtensions_RegisterAspectCore_ContainerBuilder_System_Action_IAspectConfigure__
+  commentId: M:AspectCore.Extensions.Autofac.ContainerBuilderExtensions.RegisterAspectCore(ContainerBuilder,System.Action{IAspectConfigure})
+  name.vb: RegisterAspectCore(ContainerBuilder, Action(Of IAspectConfigure))
+  fullName: AspectCore.Extensions.Autofac.ContainerBuilderExtensions.RegisterAspectCore(ContainerBuilder, System.Action<IAspectConfigure>)
+  fullName.vb: AspectCore.Extensions.Autofac.ContainerBuilderExtensions.RegisterAspectCore(ContainerBuilder, System.Action(Of IAspectConfigure))
+  nameWithType: ContainerBuilderExtensions.RegisterAspectCore(ContainerBuilder, Action<IAspectConfigure>)
+  nameWithType.vb: ContainerBuilderExtensions.RegisterAspectCore(ContainerBuilder, Action(Of IAspectConfigure))
+- uid: AspectCore.Extensions.Autofac.ContainerBuilderExtensions.RegisterAspectCore*
+  name: RegisterAspectCore
+  href: api/AspectCore.Extensions.Autofac.ContainerBuilderExtensions.html#AspectCore_Extensions_Autofac_ContainerBuilderExtensions_RegisterAspectCore_
+  commentId: Overload:AspectCore.Extensions.Autofac.ContainerBuilderExtensions.RegisterAspectCore
+  fullName: AspectCore.Extensions.Autofac.ContainerBuilderExtensions.RegisterAspectCore
+  nameWithType: ContainerBuilderExtensions.RegisterAspectCore
+- uid: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions
+  name: RegistrationBuilderExtensions
+  href: api/AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.html
+  commentId: T:AspectCore.Extensions.Autofac.RegistrationBuilderExtensions
+  fullName: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions
+  nameWithType: RegistrationBuilderExtensions
+- uid: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy*
+  name: AsClassProxy
+  href: api/AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.html#AspectCore_Extensions_Autofac_RegistrationBuilderExtensions_AsClassProxy_
+  commentId: Overload:AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy
+  fullName: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy
+  nameWithType: RegistrationBuilderExtensions.AsClassProxy
+- uid: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy``2(IRegistrationBuilder{``0,ScanningActivatorData,``1})
+  name: AsClassProxy<TLimit, TRegistrationStyle>(IRegistrationBuilder<TLimit, ScanningActivatorData, TRegistrationStyle>)
+  href: api/AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.html#AspectCore_Extensions_Autofac_RegistrationBuilderExtensions_AsClassProxy__2_IRegistrationBuilder___0_ScanningActivatorData___1__
+  commentId: M:AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy``2(IRegistrationBuilder{``0,ScanningActivatorData,``1})
+  name.vb: AsClassProxy(Of TLimit, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, ScanningActivatorData, TRegistrationStyle))
+  fullName: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy<TLimit, TRegistrationStyle>(IRegistrationBuilder<TLimit, ScanningActivatorData, TRegistrationStyle>)
+  fullName.vb: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy(Of TLimit, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, ScanningActivatorData, TRegistrationStyle))
+  nameWithType: RegistrationBuilderExtensions.AsClassProxy<TLimit, TRegistrationStyle>(IRegistrationBuilder<TLimit, ScanningActivatorData, TRegistrationStyle>)
+  nameWithType.vb: RegistrationBuilderExtensions.AsClassProxy(Of TLimit, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, ScanningActivatorData, TRegistrationStyle))
+- uid: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy``3(IRegistrationBuilder{``0,``1,``2})
+  name: AsClassProxy<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>(IRegistrationBuilder<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>)
+  href: api/AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.html#AspectCore_Extensions_Autofac_RegistrationBuilderExtensions_AsClassProxy__3_IRegistrationBuilder___0___1___2__
+  commentId: M:AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy``3(IRegistrationBuilder{``0,``1,``2})
+  name.vb: AsClassProxy(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle))
+  fullName: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>(IRegistrationBuilder<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>)
+  fullName.vb: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsClassProxy(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle))
+  nameWithType: RegistrationBuilderExtensions.AsClassProxy<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>(IRegistrationBuilder<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>)
+  nameWithType.vb: RegistrationBuilderExtensions.AsClassProxy(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle))
+- uid: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy*
+  name: AsInterfacesProxy
+  href: api/AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.html#AspectCore_Extensions_Autofac_RegistrationBuilderExtensions_AsInterfacesProxy_
+  commentId: Overload:AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy
+  fullName: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy
+  nameWithType: RegistrationBuilderExtensions.AsInterfacesProxy
+- uid: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy``2(IRegistrationBuilder{``0,ScanningActivatorData,``1})
+  name: AsInterfacesProxy<TLimit, TRegistrationStyle>(IRegistrationBuilder<TLimit, ScanningActivatorData, TRegistrationStyle>)
+  href: api/AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.html#AspectCore_Extensions_Autofac_RegistrationBuilderExtensions_AsInterfacesProxy__2_IRegistrationBuilder___0_ScanningActivatorData___1__
+  commentId: M:AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy``2(IRegistrationBuilder{``0,ScanningActivatorData,``1})
+  name.vb: AsInterfacesProxy(Of TLimit, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, ScanningActivatorData, TRegistrationStyle))
+  fullName: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy<TLimit, TRegistrationStyle>(IRegistrationBuilder<TLimit, ScanningActivatorData, TRegistrationStyle>)
+  fullName.vb: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy(Of TLimit, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, ScanningActivatorData, TRegistrationStyle))
+  nameWithType: RegistrationBuilderExtensions.AsInterfacesProxy<TLimit, TRegistrationStyle>(IRegistrationBuilder<TLimit, ScanningActivatorData, TRegistrationStyle>)
+  nameWithType.vb: RegistrationBuilderExtensions.AsInterfacesProxy(Of TLimit, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, ScanningActivatorData, TRegistrationStyle))
+- uid: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy``3(IRegistrationBuilder{``0,``1,``2})
+  name: AsInterfacesProxy<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>(IRegistrationBuilder<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>)
+  href: api/AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.html#AspectCore_Extensions_Autofac_RegistrationBuilderExtensions_AsInterfacesProxy__3_IRegistrationBuilder___0___1___2__
+  commentId: M:AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy``3(IRegistrationBuilder{``0,``1,``2})
+  name.vb: AsInterfacesProxy(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle))
+  fullName: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>(IRegistrationBuilder<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>)
+  fullName.vb: AspectCore.Extensions.Autofac.RegistrationBuilderExtensions.AsInterfacesProxy(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle))
+  nameWithType: RegistrationBuilderExtensions.AsInterfacesProxy<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>(IRegistrationBuilder<TLimit, TConcreteReflectionActivatorData, TRegistrationStyle>)
+  nameWithType.vb: RegistrationBuilderExtensions.AsInterfacesProxy(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle)(IRegistrationBuilder(Of TLimit, TConcreteReflectionActivatorData, TRegistrationStyle))
+- uid: AspectCore.Extensions.Autofac.ServiceExtensions
+  name: ServiceExtensions
+  href: api/AspectCore.Extensions.Autofac.ServiceExtensions.html
+  commentId: T:AspectCore.Extensions.Autofac.ServiceExtensions
+  fullName: AspectCore.Extensions.Autofac.ServiceExtensions
+  nameWithType: ServiceExtensions
+- uid: AspectCore.Extensions.Autofac.ServiceExtensions.GetServiceType(Service)
+  name: GetServiceType(Service)
+  href: api/AspectCore.Extensions.Autofac.ServiceExtensions.html#AspectCore_Extensions_Autofac_ServiceExtensions_GetServiceType_Service_
+  commentId: M:AspectCore.Extensions.Autofac.ServiceExtensions.GetServiceType(Service)
+  fullName: AspectCore.Extensions.Autofac.ServiceExtensions.GetServiceType(Service)
+  nameWithType: ServiceExtensions.GetServiceType(Service)
+- uid: AspectCore.Extensions.Autofac.ServiceExtensions.GetServiceType*
+  name: GetServiceType
+  href: api/AspectCore.Extensions.Autofac.ServiceExtensions.html#AspectCore_Extensions_Autofac_ServiceExtensions_GetServiceType_
+  commentId: Overload:AspectCore.Extensions.Autofac.ServiceExtensions.GetServiceType
+  fullName: AspectCore.Extensions.Autofac.ServiceExtensions.GetServiceType
+  nameWithType: ServiceExtensions.GetServiceType
 - uid: AspectCore.Extensions.Configuration
   name: AspectCore.Extensions.Configuration
   href: api/AspectCore.Extensions.Configuration.html
