@@ -10,3 +10,7 @@
 	path = src/DynamicProxy
 	url = https://github.com/AspectCore/DynamicProxy
 	branch = master
+[submodule "src/Autofac"]
+	path = src/Autofac
+	url = https://github.com/AspectCore/Autofac
+	branch = master
