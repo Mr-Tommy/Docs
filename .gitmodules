@@ -2,10 +2,6 @@
 	path = src/Abstractions
 	url = https://github.com/AspectCore/Abstractions
 	branch = master
-[submodule "src/Container"]
-	path = src/Container
-	url = https://github.com/AspectCore/Container
-	branch = master
 [submodule "src/Configuration"]
 	path = src/Configuration
 	url = https://github.com/AspectCore/Configuration
