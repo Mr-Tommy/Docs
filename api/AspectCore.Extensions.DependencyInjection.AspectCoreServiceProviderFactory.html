@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>IgnoreConfigurationExtensions 类
+    <title>AspectCoreServiceProviderFactory 类
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="IgnoreConfigurationExtensions 类
+    <meta name="title" content="AspectCoreServiceProviderFactory 类
    ">
     <meta name="generator" content="docfx 2.11.3.0">
     
@@ -65,37 +65,37 @@
             <article class="content wrap" id="_content">
               
               
-              <h1 id="AspectCore_Extensions_Configuration_IgnoreConfigurationExtensions" data-uid="AspectCore.Extensions.Configuration.IgnoreConfigurationExtensions">IgnoreConfigurationExtensions 类
+              <h1 id="AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory" data-uid="AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory">AspectCoreServiceProviderFactory 类
               </h1>
               <div class="markdown level0 summary"></div>
               <div class="markdown level0 conceptual"></div>
               <div class="inheritance">
                 <h5>&#32487;&#25215;</h5>
                   <div class="level0"><span class="xref">System.Object</span></div>
-                  <div class="level1"><span class="xref">IgnoreConfigurationExtensions</span></div>
+                  <div class="level1"><span class="xref">AspectCoreServiceProviderFactory</span></div>
               </div>
-              <h6><strong>&#21629;&#21517;&#31354;&#38388;</strong>:AspectCore.Extensions.Configuration</h6>
-              <h6><strong>&#31243;&#24207;&#38598;</strong>:AspectCore.Extensions.Configuration.dll</h6>
-              <h5 id="AspectCore_Extensions_Configuration_IgnoreConfigurationExtensions_syntax">&#35821;&#27861;</h5>
+              <h6><strong>&#21629;&#21517;&#31354;&#38388;</strong>:AspectCore.Extensions.DependencyInjection</h6>
+              <h6><strong>&#31243;&#24207;&#38598;</strong>:AspectCore.Extensions.DependencyInjection.dll</h6>
+              <h5 id="AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_syntax">&#35821;&#27861;</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public static class IgnoreConfigurationExtensions : object</code></pre>
+                <pre><code class="lang-csharp hljs">public class AspectCoreServiceProviderFactory : IServiceProviderFactory&lt;IServiceCollection&gt;</code></pre>
               </div>
               <h3 id="methods">&#26041;&#27861;
               </h3>
               <span class="small pull-right mobile-hide">
                 <span class="divider">|</span>
-                <a href="https://github.com/AspectCore/Configuration/new/6d98ab2256ed8fffcead27e74995d785ee1a9b47/apiSpec/new?filename=AspectCore_Extensions_Configuration_IgnoreConfigurationExtensions_Ignore_IAspectConfigure_Func_MethodInfo_System_Boolean__.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.Configuration.IgnoreConfigurationExtensions.Ignore(IAspectConfigure%2CFunc%7BMethodInfo%2CSystem.Boolean%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
+                <a href="https://github.com/AspectCore/DependencyInjection/new/master/apiSpec/new?filename=AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_CreateBuilder_IServiceCollection_.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateBuilder(IServiceCollection)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
               </span>
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/AspectCore/Configuration/blob/6d98ab2256ed8fffcead27e74995d785ee1a9b47/src/AspectCore.Extensions.Configuration/IgnoreConfigurationExtensions.cs/#L9">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
+                <a href="https://github.com/AspectCore/DependencyInjection/blob/master/src/AspectCore.Extensions.DependencyInjection/AspectCoreServiceProviderFactory.cs/#L12">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
               </span>
-              <a id="AspectCore_Extensions_Configuration_IgnoreConfigurationExtensions_Ignore_" data-uid="AspectCore.Extensions.Configuration.IgnoreConfigurationExtensions.Ignore*"></a>
-              <h4 id="AspectCore_Extensions_Configuration_IgnoreConfigurationExtensions_Ignore_IAspectConfigure_Func_MethodInfo_System_Boolean__" data-uid="AspectCore.Extensions.Configuration.IgnoreConfigurationExtensions.Ignore(IAspectConfigure,Func{MethodInfo,System.Boolean})">Ignore(IAspectConfigure, Func&lt;MethodInfo, Boolean&gt;)</h4>
+              <a id="AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_CreateBuilder_" data-uid="AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateBuilder*"></a>
+              <h4 id="AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_CreateBuilder_IServiceCollection_" data-uid="AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateBuilder(IServiceCollection)">CreateBuilder(IServiceCollection)</h4>
               <div class="markdown level1 summary"></div>
               <div class="markdown level1 conceptual"></div>
               <h5 class="decalaration">&#22768;&#26126;</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public static IAspectConfigure Ignore(this IAspectConfigure configure, Func&lt;MethodInfo, bool&gt; configureOption)</code></pre>
+                <pre><code class="lang-csharp hljs">public IServiceCollection CreateBuilder(IServiceCollection serviceCollection)</code></pre>
               </div>
               <h5 class="parameters">&#21442;&#25968;</h5>
               <table class="table table-bordered table-striped table-condensed">
@@ -108,13 +108,8 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">IAspectConfigure</span></td>
-                    <td><span class="parametername">configure</span></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <td><span class="xref">Func</span>&lt;<span class="xref">MethodInfo</span>, <span class="xref">System.Boolean</span>&gt;</td>
-                    <td><span class="parametername">configureOption</span></td>
+                    <td><span class="xref">IServiceCollection</span></td>
+                    <td><span class="parametername">serviceCollection</span></td>
                     <td></td>
                   </tr>
                 </tbody>
@@ -129,25 +124,25 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">IAspectConfigure</span></td>
+                    <td><span class="xref">IServiceCollection</span></td>
                     <td></td>
                   </tr>
                 </tbody>
               </table>
               <span class="small pull-right mobile-hide">
                 <span class="divider">|</span>
-                <a href="https://github.com/AspectCore/Configuration/new/6d98ab2256ed8fffcead27e74995d785ee1a9b47/apiSpec/new?filename=AspectCore_Extensions_Configuration_IgnoreConfigurationExtensions_Ignore_IAspectConfigure_Predicate_MethodInfo__.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.Configuration.IgnoreConfigurationExtensions.Ignore(IAspectConfigure%2CPredicate%7BMethodInfo%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
+                <a href="https://github.com/AspectCore/DependencyInjection/new/master/apiSpec/new?filename=AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_CreateServiceProvider_IServiceCollection_.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateServiceProvider(IServiceCollection)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
               </span>
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/AspectCore/Configuration/blob/6d98ab2256ed8fffcead27e74995d785ee1a9b47/src/AspectCore.Extensions.Configuration/IgnoreConfigurationExtensions.cs/#L25">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
+                <a href="https://github.com/AspectCore/DependencyInjection/blob/master/src/AspectCore.Extensions.DependencyInjection/AspectCoreServiceProviderFactory.cs/#L55">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
               </span>
-              <a id="AspectCore_Extensions_Configuration_IgnoreConfigurationExtensions_Ignore_" data-uid="AspectCore.Extensions.Configuration.IgnoreConfigurationExtensions.Ignore*"></a>
-              <h4 id="AspectCore_Extensions_Configuration_IgnoreConfigurationExtensions_Ignore_IAspectConfigure_Predicate_MethodInfo__" data-uid="AspectCore.Extensions.Configuration.IgnoreConfigurationExtensions.Ignore(IAspectConfigure,Predicate{MethodInfo})">Ignore(IAspectConfigure, Predicate&lt;MethodInfo&gt;)</h4>
+              <a id="AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_CreateServiceProvider_" data-uid="AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateServiceProvider*"></a>
+              <h4 id="AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_CreateServiceProvider_IServiceCollection_" data-uid="AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateServiceProvider(IServiceCollection)">CreateServiceProvider(IServiceCollection)</h4>
               <div class="markdown level1 summary"></div>
               <div class="markdown level1 conceptual"></div>
               <h5 class="decalaration">&#22768;&#26126;</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public static IAspectConfigure Ignore(this IAspectConfigure configure, Predicate&lt;MethodInfo&gt; predicate)</code></pre>
+                <pre><code class="lang-csharp hljs">public IServiceProvider CreateServiceProvider(IServiceCollection containerBuilder)</code></pre>
               </div>
               <h5 class="parameters">&#21442;&#25968;</h5>
               <table class="table table-bordered table-striped table-condensed">
@@ -160,13 +155,8 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">IAspectConfigure</span></td>
-                    <td><span class="parametername">configure</span></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <td><span class="xref">Predicate</span>&lt;<span class="xref">MethodInfo</span>&gt;</td>
-                    <td><span class="parametername">predicate</span></td>
+                    <td><span class="xref">IServiceCollection</span></td>
+                    <td><span class="parametername">containerBuilder</span></td>
                     <td></td>
                   </tr>
                 </tbody>
@@ -181,7 +171,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">IAspectConfigure</span></td>
+                    <td><span class="xref">IServiceProvider</span></td>
                     <td></td>
                   </tr>
                 </tbody>
@@ -194,10 +184,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AspectCore/Configuration/new/6d98ab2256ed8fffcead27e74995d785ee1a9b47/apiSpec/new?filename=AspectCore_Extensions_Configuration_IgnoreConfigurationExtensions.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.Configuration.IgnoreConfigurationExtensions%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
+                    <a href="https://github.com/AspectCore/DependencyInjection/new/master/apiSpec/new?filename=AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AspectCore/Configuration/blob/6d98ab2256ed8fffcead27e74995d785ee1a9b47/src/AspectCore.Extensions.Configuration/IgnoreConfigurationExtensions.cs/#L7" class="contribution-link">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
+                    <a href="https://github.com/AspectCore/DependencyInjection/blob/master/src/AspectCore.Extensions.DependencyInjection/AspectCoreServiceProviderFactory.cs/#L10" class="contribution-link">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
                   </li>
                 </ul>
               </div>

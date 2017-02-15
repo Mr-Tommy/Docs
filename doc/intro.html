@@ -8,7 +8,7 @@
     <title>AspectCore Project &#20171;&#32461; </title>
     <meta name="viewport" content="width=device-width">
     <meta name="title" content="AspectCore Project &#20171;&#32461; ">
-    <meta name="generator" content="docfx 2.11.2.0">
+    <meta name="generator" content="docfx 2.11.3.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
     <link rel="stylesheet" href="../styles/docfx.vendor.css">
@@ -82,8 +82,8 @@
 <p>目前已完成的组件包括：</p>
 <ul>
 <li><a href="http://www.nuget.org/packages/AspectCore.Abstractions/">AspectCore.Abstractions</a> 提供Aop的抽象接口</li>
-<li><a href="http://www.nuget.org/packages/AspectCore.Container.DependencyInjection/">AspectCore.Container.DependencyInjection</a> AspectCore的DependencyInjection支持</li>
-<li><a href="https://www.nuget.org/packages/AspectCore.Container.Autofac/">AspectCore.Container.Autofac</a> AspectCore的Autofac支持</li>
+<li><a href="http://www.nuget.org/packages/AspectCore.Extensions.DependencyInjection/">AspectCore.Extensions.DependencyInjection</a> AspectCore的DependencyInjection支持</li>
+<li><a href="https://www.nuget.org/packages/AspectCore.Extensions.Autofac/">AspectCore.Extensions.Autofac</a> AspectCore的Autofac支持</li>
 <li><a href="https://www.nuget.org/packages/AspectCore.Extensions.Configuration/">AspectCore.Extensions.Configuration</a> AspectCore的配置系统</li>
 <li><a href="https://www.nuget.org/packages/AspectCore.Extensions.Configuration.Files/">AspectCore.Extensions.Configuration.Files</a> AspectCore的配置文件支持</li>
 <li><a href="https://www.nuget.org/packages/AspectCore.Extensions.DynamicProxy/">AspectCore.Extensions.DynamicProxy</a> AspectCore 动态代理</li>
@@ -92,7 +92,7 @@
 <ol>
 <li>启动 Visual Studio。从 File 菜单, 选择 New &gt; Project。选择 ASP.NET Core Web Application 项目模版，创建新的 ASP.NET Core Web Application 项目。</li>
 <li><p>从 Nuget 安装 AspectCore.Lite.Container.DependencyInjection package:</p>
-<pre><code> PM&gt;   Install-Package AspectCore.Container.DependencyInjection -Pre
+<pre><code> PM&gt;   Install-Package AspectCore.Extensions.DependencyInjection -Pre
 </code></pre></li>
 <li><p>在拦截器系统中，AspectCore定义了<code>IInterceptor</code>接口，它声明了一个返回值为Task的异步执行方法：</p>
 <pre><code> namespace AspectCore.Lite.Abstractions
