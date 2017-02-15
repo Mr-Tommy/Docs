@@ -21,18 +21,18 @@
 
 目前已完成的组件包括：
 * [AspectCore.Abstractions](http://www.nuget.org/packages/AspectCore.Abstractions/) 提供Aop的抽象接口
-* [AspectCore.Container.DependencyInjection](http://www.nuget.org/packages/AspectCore.Container.DependencyInjection/) AspectCore的DependencyInjection支持
-* [AspectCore.Container.Autofac](https://www.nuget.org/packages/AspectCore.Container.Autofac/) AspectCore的Autofac支持
+* [AspectCore.Extensions.DependencyInjection](http://www.nuget.org/packages/AspectCore.Extensions.DependencyInjection/) AspectCore的DependencyInjection支持
+* [AspectCore.Extensions.Autofac](https://www.nuget.org/packages/AspectCore.Extensions.Autofac/) AspectCore的Autofac支持
 * [AspectCore.Extensions.Configuration](https://www.nuget.org/packages/AspectCore.Extensions.Configuration/) AspectCore的配置系统
 * [AspectCore.Extensions.Configuration.Files](https://www.nuget.org/packages/AspectCore.Extensions.Configuration.Files/) AspectCore的配置文件支持
 * [AspectCore.Extensions.DynamicProxy](https://www.nuget.org/packages/AspectCore.Extensions.DynamicProxy/) AspectCore 动态代理
 
 ### 在Asp.Net Core应用程序中开始使用AspectCore
 1. 启动 Visual Studio。从 File 菜单, 选择 New > Project。选择 ASP.NET Core Web Application 项目模版，创建新的 ASP.NET Core Web Application 项目。
-2. 从 Nuget 安装 AspectCore.Lite.Container.DependencyInjection package:
+2. 从 Nuget 安装 `AspectCore.Extensions.DependencyInjection` package:
 
     ```
-    PM>   Install-Package AspectCore.Container.DependencyInjection -Pre
+    PM>   Install-Package AspectCore.Extensions.DependencyInjection -Pre
     ```
 
 3. 在拦截器系统中，AspectCore定义了`IInterceptor`接口，它声明了一个返回值为Task的异步执行方法：

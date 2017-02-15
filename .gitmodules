@@ -14,3 +14,7 @@
 	path = src/Autofac
 	url = https://github.com/AspectCore/Autofac
 	branch = master
+[submodule "DependencyInjection"]
+	path = DependencyInjection
+	url = https://github.com/AspectCore/DependencyInjection
+	branch = master
