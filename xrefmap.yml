@@ -3564,6 +3564,680 @@ references:
   fullName.vb: AspectCore.Extensions.Configuration.UseConfigurationExtensions.Use(Of TInterceptor)(IAspectConfigure, Predicate(Of MethodInfo))
   nameWithType: UseConfigurationExtensions.Use<TInterceptor>(IAspectConfigure, Predicate<MethodInfo>)
   nameWithType.vb: UseConfigurationExtensions.Use(Of TInterceptor)(IAspectConfigure, Predicate(Of MethodInfo))
+- uid: AspectCore.Extensions.CrossParameters
+  name: AspectCore.Extensions.CrossParameters
+  href: api/AspectCore.Extensions.CrossParameters.html
+  commentId: N:AspectCore.Extensions.CrossParameters
+  fullName: AspectCore.Extensions.CrossParameters
+  nameWithType: AspectCore.Extensions.CrossParameters
+- uid: AspectCore.Extensions.CrossParameters.ConfigurationExtensions
+  name: ConfigurationExtensions
+  href: api/AspectCore.Extensions.CrossParameters.ConfigurationExtensions.html
+  commentId: T:AspectCore.Extensions.CrossParameters.ConfigurationExtensions
+  fullName: AspectCore.Extensions.CrossParameters.ConfigurationExtensions
+  nameWithType: ConfigurationExtensions
+- uid: AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseMethodInjection(IAspectConfigure)
+  name: UseMethodInjection(IAspectConfigure)
+  href: api/AspectCore.Extensions.CrossParameters.ConfigurationExtensions.html#AspectCore_Extensions_CrossParameters_ConfigurationExtensions_UseMethodInjection_IAspectConfigure_
+  commentId: M:AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseMethodInjection(IAspectConfigure)
+  fullName: AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseMethodInjection(IAspectConfigure)
+  nameWithType: ConfigurationExtensions.UseMethodInjection(IAspectConfigure)
+- uid: AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseMethodInjection*
+  name: UseMethodInjection
+  href: api/AspectCore.Extensions.CrossParameters.ConfigurationExtensions.html#AspectCore_Extensions_CrossParameters_ConfigurationExtensions_UseMethodInjection_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseMethodInjection
+  fullName: AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseMethodInjection
+  nameWithType: ConfigurationExtensions.UseMethodInjection
+- uid: AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseParameterInterception(IAspectConfigure)
+  name: UseParameterInterception(IAspectConfigure)
+  href: api/AspectCore.Extensions.CrossParameters.ConfigurationExtensions.html#AspectCore_Extensions_CrossParameters_ConfigurationExtensions_UseParameterInterception_IAspectConfigure_
+  commentId: M:AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseParameterInterception(IAspectConfigure)
+  fullName: AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseParameterInterception(IAspectConfigure)
+  nameWithType: ConfigurationExtensions.UseParameterInterception(IAspectConfigure)
+- uid: AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseParameterInterception*
+  name: UseParameterInterception
+  href: api/AspectCore.Extensions.CrossParameters.ConfigurationExtensions.html#AspectCore_Extensions_CrossParameters_ConfigurationExtensions_UseParameterInterception_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseParameterInterception
+  fullName: AspectCore.Extensions.CrossParameters.ConfigurationExtensions.UseParameterInterception
+  nameWithType: ConfigurationExtensions.UseParameterInterception
+- uid: AspectCore.Extensions.CrossParameters.Injections
+  name: AspectCore.Extensions.CrossParameters.Injections
+  href: api/AspectCore.Extensions.CrossParameters.Injections.html
+  commentId: N:AspectCore.Extensions.CrossParameters.Injections
+  fullName: AspectCore.Extensions.CrossParameters.Injections
+  nameWithType: AspectCore.Extensions.CrossParameters.Injections
+- uid: AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute
+  name: MethodInjectionInterceptorAttribute
+  href: api/AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.html
+  commentId: T:AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute
+  fullName: AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute
+  nameWithType: MethodInjectionInterceptorAttribute
+- uid: AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Invoke(AspectContext,AspectDelegate)
+  name: Invoke(AspectContext, AspectDelegate)
+  href: api/AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.html#AspectCore_Extensions_CrossParameters_Injections_MethodInjectionInterceptorAttribute_Invoke_AspectContext_AspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Invoke(AspectContext,AspectDelegate)
+  fullName: AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Invoke(AspectContext, AspectDelegate)
+  nameWithType: MethodInjectionInterceptorAttribute.Invoke(AspectContext, AspectDelegate)
+- uid: AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Invoke*
+  name: Invoke
+  href: api/AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.html#AspectCore_Extensions_CrossParameters_Injections_MethodInjectionInterceptorAttribute_Invoke_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Invoke
+  fullName: AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Invoke
+  nameWithType: MethodInjectionInterceptorAttribute.Invoke
+- uid: AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Order
+  name: Order
+  href: api/AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.html#AspectCore_Extensions_CrossParameters_Injections_MethodInjectionInterceptorAttribute_Order
+  commentId: P:AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Order
+  fullName: AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Order
+  nameWithType: MethodInjectionInterceptorAttribute.Order
+- uid: AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Order*
+  name: Order
+  href: api/AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.html#AspectCore_Extensions_CrossParameters_Injections_MethodInjectionInterceptorAttribute_Order_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Order
+  fullName: AspectCore.Extensions.CrossParameters.Injections.MethodInjectionInterceptorAttribute.Order
+  nameWithType: MethodInjectionInterceptorAttribute.Order
+- uid: AspectCore.Extensions.CrossParameters.Interceptions
+  name: AspectCore.Extensions.CrossParameters.Interceptions
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.html
+  commentId: N:AspectCore.Extensions.CrossParameters.Interceptions
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions
+  nameWithType: AspectCore.Extensions.CrossParameters.Interceptions
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute
+  name: InterceptParameterInterceptorAttribute
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.html
+  commentId: T:AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute
+  nameWithType: InterceptParameterInterceptorAttribute
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Invoke(AspectContext,AspectDelegate)
+  name: Invoke(AspectContext, AspectDelegate)
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_InterceptParameterInterceptorAttribute_Invoke_AspectContext_AspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Invoke(AspectContext,AspectDelegate)
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Invoke(AspectContext, AspectDelegate)
+  nameWithType: InterceptParameterInterceptorAttribute.Invoke(AspectContext, AspectDelegate)
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Invoke*
+  name: Invoke
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_InterceptParameterInterceptorAttribute_Invoke_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Invoke
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Invoke
+  nameWithType: InterceptParameterInterceptorAttribute.Invoke
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Order
+  name: Order
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_InterceptParameterInterceptorAttribute_Order
+  commentId: P:AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Order
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Order
+  nameWithType: InterceptParameterInterceptorAttribute.Order
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Order*
+  name: Order
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_InterceptParameterInterceptorAttribute_Order_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Order
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.InterceptParameterInterceptorAttribute.Order
+  nameWithType: InterceptParameterInterceptorAttribute.Order
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor
+  name: IParamterInterceptor
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor.html
+  commentId: T:AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor
+  nameWithType: IParamterInterceptor
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor.Invoke(ParameterDescriptor,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  name: Invoke(ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor.html#AspectCore_Extensions_CrossParameters_Interceptions_IParamterInterceptor_Invoke_ParameterDescriptor_AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor.Invoke(ParameterDescriptor,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor.Invoke(ParameterDescriptor, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  nameWithType: IParamterInterceptor.Invoke(ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor.Invoke*
+  name: Invoke
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor.html#AspectCore_Extensions_CrossParameters_Interceptions_IParamterInterceptor_Invoke_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor.Invoke
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.IParamterInterceptor.Invoke
+  nameWithType: IParamterInterceptor.Invoke
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models
+  name: AspectCore.Extensions.CrossParameters.Interceptions.Models
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.html
+  commentId: N:AspectCore.Extensions.CrossParameters.Interceptions.Models
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models
+  nameWithType: AspectCore.Extensions.CrossParameters.Interceptions.Models
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor`1
+  name: ModelInterceptor<TModel>
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor-1.html
+  commentId: T:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor`1
+  name.vb: ModelInterceptor(Of TModel)
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor<TModel>
+  fullName.vb: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor(Of TModel)
+  nameWithType: ModelInterceptor<TModel>
+  nameWithType.vb: ModelInterceptor(Of TModel)
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor`1.#ctor
+  name: ModelInterceptor()
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor-1.html#AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelInterceptor_1__ctor
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor`1.#ctor
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor<TModel>.ModelInterceptor()
+  fullName.vb: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor(Of TModel).ModelInterceptor()
+  nameWithType: ModelInterceptor<TModel>.ModelInterceptor()
+  nameWithType.vb: ModelInterceptor(Of TModel).ModelInterceptor()
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor`1.#ctor*
+  name: ModelInterceptor
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor-1.html#AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelInterceptor_1__ctor_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor`1.#ctor
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor<TModel>.ModelInterceptor
+  fullName.vb: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor(Of TModel).ModelInterceptor
+  nameWithType: ModelInterceptor<TModel>.ModelInterceptor
+  nameWithType.vb: ModelInterceptor(Of TModel).ModelInterceptor
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor`1.Invoke(`0,ParameterDescriptor,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  name: Invoke(TModel, ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor-1.html#AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelInterceptor_1_Invoke__0_ParameterDescriptor_AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor`1.Invoke(`0,ParameterDescriptor,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor<TModel>.Invoke(TModel, ParameterDescriptor, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  fullName.vb: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor(Of TModel).Invoke(TModel, ParameterDescriptor, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  nameWithType: ModelInterceptor<TModel>.Invoke(TModel, ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+  nameWithType.vb: ModelInterceptor(Of TModel).Invoke(TModel, ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor`1.Invoke*
+  name: Invoke
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor-1.html#AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelInterceptor_1_Invoke_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor`1.Invoke
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor<TModel>.Invoke
+  fullName.vb: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelInterceptor(Of TModel).Invoke
+  nameWithType: ModelInterceptor<TModel>.Invoke
+  nameWithType.vb: ModelInterceptor(Of TModel).Invoke
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute
+  name: ModelRequiredAttribute
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.html
+  commentId: T:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute
+  nameWithType: ModelRequiredAttribute
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.#ctor(Type[])
+  name: ModelRequiredAttribute(Type[])
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredAttribute__ctor_Type___
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.#ctor(Type[])
+  name.vb: ModelRequiredAttribute(Type())
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.ModelRequiredAttribute(Type[])
+  fullName.vb: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.ModelRequiredAttribute(Type())
+  nameWithType: ModelRequiredAttribute.ModelRequiredAttribute(Type[])
+  nameWithType.vb: ModelRequiredAttribute.ModelRequiredAttribute(Type())
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.#ctor*
+  name: ModelRequiredAttribute
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredAttribute__ctor_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.#ctor
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.ModelRequiredAttribute
+  nameWithType: ModelRequiredAttribute.ModelRequiredAttribute
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.Invoke(ParameterDescriptor,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  name: Invoke(ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredAttribute_Invoke_ParameterDescriptor_AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.Invoke(ParameterDescriptor,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.Invoke(ParameterDescriptor, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  nameWithType: ModelRequiredAttribute.Invoke(ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.Invoke*
+  name: Invoke
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredAttribute_Invoke_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.Invoke
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredAttribute.Invoke
+  nameWithType: ModelRequiredAttribute.Invoke
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions
+  name: ModelRequiredExtensions
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.html
+  commentId: T:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions
+  nameWithType: ModelRequiredExtensions
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.IsModelInterceptor(Type)
+  name: IsModelInterceptor(Type)
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.html#AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredExtensions_IsModelInterceptor_Type_
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.IsModelInterceptor(Type)
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.IsModelInterceptor(Type)
+  nameWithType: ModelRequiredExtensions.IsModelInterceptor(Type)
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.IsModelInterceptor*
+  name: IsModelInterceptor
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.html#AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredExtensions_IsModelInterceptor_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.IsModelInterceptor
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.IsModelInterceptor
+  nameWithType: ModelRequiredExtensions.IsModelInterceptor
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute
+  name: NotNullAttribute
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.html
+  commentId: T:AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute
+  nameWithType: NotNullAttribute
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.#ctor
+  name: NotNullAttribute()
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_NotNullAttribute__ctor
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.#ctor
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.NotNullAttribute()
+  nameWithType: NotNullAttribute.NotNullAttribute()
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.#ctor(System.String)
+  name: NotNullAttribute(String)
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_NotNullAttribute__ctor_System_String_
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.#ctor(System.String)
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.NotNullAttribute(System.String)
+  nameWithType: NotNullAttribute.NotNullAttribute(String)
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.#ctor*
+  name: NotNullAttribute
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_NotNullAttribute__ctor_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.#ctor
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.NotNullAttribute
+  nameWithType: NotNullAttribute.NotNullAttribute
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Invoke(ParameterDescriptor,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  name: Invoke(ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_NotNullAttribute_Invoke_ParameterDescriptor_AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Invoke(ParameterDescriptor,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Invoke(ParameterDescriptor, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  nameWithType: NotNullAttribute.Invoke(ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Invoke*
+  name: Invoke
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_NotNullAttribute_Invoke_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Invoke
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Invoke
+  nameWithType: NotNullAttribute.Invoke
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Message
+  name: Message
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_NotNullAttribute_Message
+  commentId: P:AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Message
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Message
+  nameWithType: NotNullAttribute.Message
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Message*
+  name: Message
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_NotNullAttribute_Message_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Message
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.NotNullAttribute.Message
+  nameWithType: NotNullAttribute.Message
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext
+  name: ParameterAspectContext
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html
+  commentId: T:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext
+  nameWithType: ParameterAspectContext
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.AspectContext
+  name: AspectContext
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html#AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_AspectContext
+  commentId: P:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.AspectContext
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.AspectContext
+  nameWithType: ParameterAspectContext.AspectContext
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.AspectContext*
+  name: AspectContext
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html#AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_AspectContext_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.AspectContext
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.AspectContext
+  nameWithType: ParameterAspectContext.AspectContext
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Dispose
+  name: Dispose()
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html#AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_Dispose
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Dispose
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Dispose()
+  nameWithType: ParameterAspectContext.Dispose()
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Dispose*
+  name: Dispose
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html#AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_Dispose_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Dispose
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Dispose
+  nameWithType: ParameterAspectContext.Dispose
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Items
+  name: Items
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html#AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_Items
+  commentId: P:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Items
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Items
+  nameWithType: ParameterAspectContext.Items
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Items*
+  name: Items
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html#AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_Items_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Items
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Items
+  nameWithType: ParameterAspectContext.Items
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Parameter
+  name: Parameter
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html#AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_Parameter
+  commentId: P:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Parameter
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Parameter
+  nameWithType: ParameterAspectContext.Parameter
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Parameter*
+  name: Parameter
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html#AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_Parameter_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Parameter
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.Parameter
+  nameWithType: ParameterAspectContext.Parameter
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.ServiceProvider
+  name: ServiceProvider
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html#AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_ServiceProvider
+  commentId: P:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.ServiceProvider
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.ServiceProvider
+  nameWithType: ParameterAspectContext.ServiceProvider
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.ServiceProvider*
+  name: ServiceProvider
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.html#AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_ServiceProvider_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.ServiceProvider
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext.ServiceProvider
+  nameWithType: ParameterAspectContext.ServiceProvider
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate
+  name: ParameterAspectDelegate
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate.html
+  commentId: T:AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate
+  nameWithType: ParameterAspectDelegate
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute
+  name: ParamterInterceptorAttribute
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute.html
+  commentId: T:AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute
+  nameWithType: ParamterInterceptorAttribute
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute.Invoke(ParameterDescriptor,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  name: Invoke(ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_ParamterInterceptorAttribute_Invoke_ParameterDescriptor_AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectContext_AspectCore_Extensions_CrossParameters_Interceptions_ParameterAspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute.Invoke(ParameterDescriptor,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext,AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute.Invoke(ParameterDescriptor, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectContext, AspectCore.Extensions.CrossParameters.Interceptions.ParameterAspectDelegate)
+  nameWithType: ParamterInterceptorAttribute.Invoke(ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)
+- uid: AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute.Invoke*
+  name: Invoke
+  href: api/AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute.html#AspectCore_Extensions_CrossParameters_Interceptions_ParamterInterceptorAttribute_Invoke_
+  commentId: Overload:AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute.Invoke
+  fullName: AspectCore.Extensions.CrossParameters.Interceptions.ParamterInterceptorAttribute.Invoke
+  nameWithType: ParamterInterceptorAttribute.Invoke
+- uid: AspectCore.Extensions.CrossProperties
+  name: AspectCore.Extensions.CrossProperties
+  href: api/AspectCore.Extensions.CrossProperties.html
+  commentId: N:AspectCore.Extensions.CrossProperties
+  fullName: AspectCore.Extensions.CrossProperties
+  nameWithType: AspectCore.Extensions.CrossProperties
+- uid: AspectCore.Extensions.CrossProperties.AspectContextExtensions
+  name: AspectContextExtensions
+  href: api/AspectCore.Extensions.CrossProperties.AspectContextExtensions.html
+  commentId: T:AspectCore.Extensions.CrossProperties.AspectContextExtensions
+  fullName: AspectCore.Extensions.CrossProperties.AspectContextExtensions
+  nameWithType: AspectContextExtensions
+- uid: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetImplementationProperty(TargetDescriptor)
+  name: GetImplementationProperty(TargetDescriptor)
+  href: api/AspectCore.Extensions.CrossProperties.AspectContextExtensions.html#AspectCore_Extensions_CrossProperties_AspectContextExtensions_GetImplementationProperty_TargetDescriptor_
+  commentId: M:AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetImplementationProperty(TargetDescriptor)
+  fullName: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetImplementationProperty(TargetDescriptor)
+  nameWithType: AspectContextExtensions.GetImplementationProperty(TargetDescriptor)
+- uid: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetImplementationProperty*
+  name: GetImplementationProperty
+  href: api/AspectCore.Extensions.CrossProperties.AspectContextExtensions.html#AspectCore_Extensions_CrossProperties_AspectContextExtensions_GetImplementationProperty_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetImplementationProperty
+  fullName: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetImplementationProperty
+  nameWithType: AspectContextExtensions.GetImplementationProperty
+- uid: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetProxyProperty(ProxyDescriptor)
+  name: GetProxyProperty(ProxyDescriptor)
+  href: api/AspectCore.Extensions.CrossProperties.AspectContextExtensions.html#AspectCore_Extensions_CrossProperties_AspectContextExtensions_GetProxyProperty_ProxyDescriptor_
+  commentId: M:AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetProxyProperty(ProxyDescriptor)
+  fullName: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetProxyProperty(ProxyDescriptor)
+  nameWithType: AspectContextExtensions.GetProxyProperty(ProxyDescriptor)
+- uid: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetProxyProperty*
+  name: GetProxyProperty
+  href: api/AspectCore.Extensions.CrossProperties.AspectContextExtensions.html#AspectCore_Extensions_CrossProperties_AspectContextExtensions_GetProxyProperty_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetProxyProperty
+  fullName: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetProxyProperty
+  nameWithType: AspectContextExtensions.GetProxyProperty
+- uid: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetServiceProperty(TargetDescriptor)
+  name: GetServiceProperty(TargetDescriptor)
+  href: api/AspectCore.Extensions.CrossProperties.AspectContextExtensions.html#AspectCore_Extensions_CrossProperties_AspectContextExtensions_GetServiceProperty_TargetDescriptor_
+  commentId: M:AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetServiceProperty(TargetDescriptor)
+  fullName: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetServiceProperty(TargetDescriptor)
+  nameWithType: AspectContextExtensions.GetServiceProperty(TargetDescriptor)
+- uid: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetServiceProperty*
+  name: GetServiceProperty
+  href: api/AspectCore.Extensions.CrossProperties.AspectContextExtensions.html#AspectCore_Extensions_CrossProperties_AspectContextExtensions_GetServiceProperty_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetServiceProperty
+  fullName: AspectCore.Extensions.CrossProperties.AspectContextExtensions.GetServiceProperty
+  nameWithType: AspectContextExtensions.GetServiceProperty
+- uid: AspectCore.Extensions.CrossProperties.ConfigurationExtensions
+  name: ConfigurationExtensions
+  href: api/AspectCore.Extensions.CrossProperties.ConfigurationExtensions.html
+  commentId: T:AspectCore.Extensions.CrossProperties.ConfigurationExtensions
+  fullName: AspectCore.Extensions.CrossProperties.ConfigurationExtensions
+  nameWithType: ConfigurationExtensions
+- uid: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor(IAspectConfigure,AspectCore.Extensions.CrossProperties.IPropertyInterceptor)
+  name: UsePropertyInterceptor(IAspectConfigure, IPropertyInterceptor)
+  href: api/AspectCore.Extensions.CrossProperties.ConfigurationExtensions.html#AspectCore_Extensions_CrossProperties_ConfigurationExtensions_UsePropertyInterceptor_IAspectConfigure_AspectCore_Extensions_CrossProperties_IPropertyInterceptor_
+  commentId: M:AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor(IAspectConfigure,AspectCore.Extensions.CrossProperties.IPropertyInterceptor)
+  fullName: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor(IAspectConfigure, AspectCore.Extensions.CrossProperties.IPropertyInterceptor)
+  nameWithType: ConfigurationExtensions.UsePropertyInterceptor(IAspectConfigure, IPropertyInterceptor)
+- uid: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor(IAspectConfigure,AspectCore.Extensions.CrossProperties.IPropertyInterceptor,Predicate{MethodInfo})
+  name: UsePropertyInterceptor(IAspectConfigure, IPropertyInterceptor, Predicate<MethodInfo>)
+  href: api/AspectCore.Extensions.CrossProperties.ConfigurationExtensions.html#AspectCore_Extensions_CrossProperties_ConfigurationExtensions_UsePropertyInterceptor_IAspectConfigure_AspectCore_Extensions_CrossProperties_IPropertyInterceptor_Predicate_MethodInfo__
+  commentId: M:AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor(IAspectConfigure,AspectCore.Extensions.CrossProperties.IPropertyInterceptor,Predicate{MethodInfo})
+  name.vb: UsePropertyInterceptor(IAspectConfigure, IPropertyInterceptor, Predicate(Of MethodInfo))
+  fullName: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor(IAspectConfigure, AspectCore.Extensions.CrossProperties.IPropertyInterceptor, Predicate<MethodInfo>)
+  fullName.vb: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor(IAspectConfigure, AspectCore.Extensions.CrossProperties.IPropertyInterceptor, Predicate(Of MethodInfo))
+  nameWithType: ConfigurationExtensions.UsePropertyInterceptor(IAspectConfigure, IPropertyInterceptor, Predicate<MethodInfo>)
+  nameWithType.vb: ConfigurationExtensions.UsePropertyInterceptor(IAspectConfigure, IPropertyInterceptor, Predicate(Of MethodInfo))
+- uid: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor*
+  name: UsePropertyInterceptor
+  href: api/AspectCore.Extensions.CrossProperties.ConfigurationExtensions.html#AspectCore_Extensions_CrossProperties_ConfigurationExtensions_UsePropertyInterceptor_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor
+  fullName: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor
+  nameWithType: ConfigurationExtensions.UsePropertyInterceptor
+- uid: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor``1(IAspectConfigure)
+  name: UsePropertyInterceptor<TPropertyInterceptor>(IAspectConfigure)
+  href: api/AspectCore.Extensions.CrossProperties.ConfigurationExtensions.html#AspectCore_Extensions_CrossProperties_ConfigurationExtensions_UsePropertyInterceptor__1_IAspectConfigure_
+  commentId: M:AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor``1(IAspectConfigure)
+  name.vb: UsePropertyInterceptor(Of TPropertyInterceptor)(IAspectConfigure)
+  fullName: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor<TPropertyInterceptor>(IAspectConfigure)
+  fullName.vb: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor(Of TPropertyInterceptor)(IAspectConfigure)
+  nameWithType: ConfigurationExtensions.UsePropertyInterceptor<TPropertyInterceptor>(IAspectConfigure)
+  nameWithType.vb: ConfigurationExtensions.UsePropertyInterceptor(Of TPropertyInterceptor)(IAspectConfigure)
+- uid: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor``1(IAspectConfigure,Predicate{MethodInfo})
+  name: UsePropertyInterceptor<TPropertyInterceptor>(IAspectConfigure, Predicate<MethodInfo>)
+  href: api/AspectCore.Extensions.CrossProperties.ConfigurationExtensions.html#AspectCore_Extensions_CrossProperties_ConfigurationExtensions_UsePropertyInterceptor__1_IAspectConfigure_Predicate_MethodInfo__
+  commentId: M:AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor``1(IAspectConfigure,Predicate{MethodInfo})
+  name.vb: UsePropertyInterceptor(Of TPropertyInterceptor)(IAspectConfigure, Predicate(Of MethodInfo))
+  fullName: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor<TPropertyInterceptor>(IAspectConfigure, Predicate<MethodInfo>)
+  fullName.vb: AspectCore.Extensions.CrossProperties.ConfigurationExtensions.UsePropertyInterceptor(Of TPropertyInterceptor)(IAspectConfigure, Predicate(Of MethodInfo))
+  nameWithType: ConfigurationExtensions.UsePropertyInterceptor<TPropertyInterceptor>(IAspectConfigure, Predicate<MethodInfo>)
+  nameWithType.vb: ConfigurationExtensions.UsePropertyInterceptor(Of TPropertyInterceptor)(IAspectConfigure, Predicate(Of MethodInfo))
+- uid: AspectCore.Extensions.CrossProperties.IPropertyInterceptor
+  name: IPropertyInterceptor
+  href: api/AspectCore.Extensions.CrossProperties.IPropertyInterceptor.html
+  commentId: T:AspectCore.Extensions.CrossProperties.IPropertyInterceptor
+  fullName: AspectCore.Extensions.CrossProperties.IPropertyInterceptor
+  nameWithType: IPropertyInterceptor
+- uid: AspectCore.Extensions.CrossProperties.IPropertyInterceptor.GetInvoke(ParameterDescriptor,AspectContext,AspectDelegate)
+  name: GetInvoke(ParameterDescriptor, AspectContext, AspectDelegate)
+  href: api/AspectCore.Extensions.CrossProperties.IPropertyInterceptor.html#AspectCore_Extensions_CrossProperties_IPropertyInterceptor_GetInvoke_ParameterDescriptor_AspectContext_AspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossProperties.IPropertyInterceptor.GetInvoke(ParameterDescriptor,AspectContext,AspectDelegate)
+  fullName: AspectCore.Extensions.CrossProperties.IPropertyInterceptor.GetInvoke(ParameterDescriptor, AspectContext, AspectDelegate)
+  nameWithType: IPropertyInterceptor.GetInvoke(ParameterDescriptor, AspectContext, AspectDelegate)
+- uid: AspectCore.Extensions.CrossProperties.IPropertyInterceptor.GetInvoke*
+  name: GetInvoke
+  href: api/AspectCore.Extensions.CrossProperties.IPropertyInterceptor.html#AspectCore_Extensions_CrossProperties_IPropertyInterceptor_GetInvoke_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.IPropertyInterceptor.GetInvoke
+  fullName: AspectCore.Extensions.CrossProperties.IPropertyInterceptor.GetInvoke
+  nameWithType: IPropertyInterceptor.GetInvoke
+- uid: AspectCore.Extensions.CrossProperties.IPropertyInterceptor.SetInvoke(ParameterCollection,AspectContext,AspectDelegate)
+  name: SetInvoke(ParameterCollection, AspectContext, AspectDelegate)
+  href: api/AspectCore.Extensions.CrossProperties.IPropertyInterceptor.html#AspectCore_Extensions_CrossProperties_IPropertyInterceptor_SetInvoke_ParameterCollection_AspectContext_AspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossProperties.IPropertyInterceptor.SetInvoke(ParameterCollection,AspectContext,AspectDelegate)
+  fullName: AspectCore.Extensions.CrossProperties.IPropertyInterceptor.SetInvoke(ParameterCollection, AspectContext, AspectDelegate)
+  nameWithType: IPropertyInterceptor.SetInvoke(ParameterCollection, AspectContext, AspectDelegate)
+- uid: AspectCore.Extensions.CrossProperties.IPropertyInterceptor.SetInvoke*
+  name: SetInvoke
+  href: api/AspectCore.Extensions.CrossProperties.IPropertyInterceptor.html#AspectCore_Extensions_CrossProperties_IPropertyInterceptor_SetInvoke_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.IPropertyInterceptor.SetInvoke
+  fullName: AspectCore.Extensions.CrossProperties.IPropertyInterceptor.SetInvoke
+  nameWithType: IPropertyInterceptor.SetInvoke
+- uid: AspectCore.Extensions.CrossProperties.PropertyAspectValidator
+  name: PropertyAspectValidator
+  href: api/AspectCore.Extensions.CrossProperties.PropertyAspectValidator.html
+  commentId: T:AspectCore.Extensions.CrossProperties.PropertyAspectValidator
+  fullName: AspectCore.Extensions.CrossProperties.PropertyAspectValidator
+  nameWithType: PropertyAspectValidator
+- uid: AspectCore.Extensions.CrossProperties.PropertyAspectValidator.#ctor(IAspectConfigure)
+  name: PropertyAspectValidator(IAspectConfigure)
+  href: api/AspectCore.Extensions.CrossProperties.PropertyAspectValidator.html#AspectCore_Extensions_CrossProperties_PropertyAspectValidator__ctor_IAspectConfigure_
+  commentId: M:AspectCore.Extensions.CrossProperties.PropertyAspectValidator.#ctor(IAspectConfigure)
+  fullName: AspectCore.Extensions.CrossProperties.PropertyAspectValidator.PropertyAspectValidator(IAspectConfigure)
+  nameWithType: PropertyAspectValidator.PropertyAspectValidator(IAspectConfigure)
+- uid: AspectCore.Extensions.CrossProperties.PropertyAspectValidator.#ctor*
+  name: PropertyAspectValidator
+  href: api/AspectCore.Extensions.CrossProperties.PropertyAspectValidator.html#AspectCore_Extensions_CrossProperties_PropertyAspectValidator__ctor_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.PropertyAspectValidator.#ctor
+  fullName: AspectCore.Extensions.CrossProperties.PropertyAspectValidator.PropertyAspectValidator
+  nameWithType: PropertyAspectValidator.PropertyAspectValidator
+- uid: AspectCore.Extensions.CrossProperties.PropertyAspectValidator.Validate(MethodInfo)
+  name: Validate(MethodInfo)
+  href: api/AspectCore.Extensions.CrossProperties.PropertyAspectValidator.html#AspectCore_Extensions_CrossProperties_PropertyAspectValidator_Validate_MethodInfo_
+  commentId: M:AspectCore.Extensions.CrossProperties.PropertyAspectValidator.Validate(MethodInfo)
+  fullName: AspectCore.Extensions.CrossProperties.PropertyAspectValidator.Validate(MethodInfo)
+  nameWithType: PropertyAspectValidator.Validate(MethodInfo)
+- uid: AspectCore.Extensions.CrossProperties.PropertyAspectValidator.Validate*
+  name: Validate
+  href: api/AspectCore.Extensions.CrossProperties.PropertyAspectValidator.html#AspectCore_Extensions_CrossProperties_PropertyAspectValidator_Validate_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.PropertyAspectValidator.Validate
+  fullName: AspectCore.Extensions.CrossProperties.PropertyAspectValidator.Validate
+  nameWithType: PropertyAspectValidator.Validate
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute
+  name: PropertyInterceptorAttribute
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.html
+  commentId: T:AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute
+  nameWithType: PropertyInterceptorAttribute
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.GetInvoke(ParameterDescriptor,AspectContext,AspectDelegate)
+  name: GetInvoke(ParameterDescriptor, AspectContext, AspectDelegate)
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.html#AspectCore_Extensions_CrossProperties_PropertyInterceptorAttribute_GetInvoke_ParameterDescriptor_AspectContext_AspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.GetInvoke(ParameterDescriptor,AspectContext,AspectDelegate)
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.GetInvoke(ParameterDescriptor, AspectContext, AspectDelegate)
+  nameWithType: PropertyInterceptorAttribute.GetInvoke(ParameterDescriptor, AspectContext, AspectDelegate)
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.GetInvoke*
+  name: GetInvoke
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.html#AspectCore_Extensions_CrossProperties_PropertyInterceptorAttribute_GetInvoke_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.GetInvoke
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.GetInvoke
+  nameWithType: PropertyInterceptorAttribute.GetInvoke
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.Invoke(AspectContext,AspectDelegate)
+  name: Invoke(AspectContext, AspectDelegate)
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.html#AspectCore_Extensions_CrossProperties_PropertyInterceptorAttribute_Invoke_AspectContext_AspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.Invoke(AspectContext,AspectDelegate)
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.Invoke(AspectContext, AspectDelegate)
+  nameWithType: PropertyInterceptorAttribute.Invoke(AspectContext, AspectDelegate)
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.Invoke*
+  name: Invoke
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.html#AspectCore_Extensions_CrossProperties_PropertyInterceptorAttribute_Invoke_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.Invoke
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.Invoke
+  nameWithType: PropertyInterceptorAttribute.Invoke
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.SetInvoke(ParameterCollection,AspectContext,AspectDelegate)
+  name: SetInvoke(ParameterCollection, AspectContext, AspectDelegate)
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.html#AspectCore_Extensions_CrossProperties_PropertyInterceptorAttribute_SetInvoke_ParameterCollection_AspectContext_AspectDelegate_
+  commentId: M:AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.SetInvoke(ParameterCollection,AspectContext,AspectDelegate)
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.SetInvoke(ParameterCollection, AspectContext, AspectDelegate)
+  nameWithType: PropertyInterceptorAttribute.SetInvoke(ParameterCollection, AspectContext, AspectDelegate)
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.SetInvoke*
+  name: SetInvoke
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.html#AspectCore_Extensions_CrossProperties_PropertyInterceptorAttribute_SetInvoke_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.SetInvoke
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorAttribute.SetInvoke
+  nameWithType: PropertyInterceptorAttribute.SetInvoke
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher
+  name: PropertyInterceptorMatcher
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.html
+  commentId: T:AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher
+  nameWithType: PropertyInterceptorMatcher
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.#ctor(IAspectConfigure)
+  name: PropertyInterceptorMatcher(IAspectConfigure)
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.html#AspectCore_Extensions_CrossProperties_PropertyInterceptorMatcher__ctor_IAspectConfigure_
+  commentId: M:AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.#ctor(IAspectConfigure)
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.PropertyInterceptorMatcher(IAspectConfigure)
+  nameWithType: PropertyInterceptorMatcher.PropertyInterceptorMatcher(IAspectConfigure)
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.#ctor*
+  name: PropertyInterceptorMatcher
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.html#AspectCore_Extensions_CrossProperties_PropertyInterceptorMatcher__ctor_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.#ctor
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.PropertyInterceptorMatcher
+  nameWithType: PropertyInterceptorMatcher.PropertyInterceptorMatcher
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.Match(MethodInfo,TypeInfo)
+  name: Match(MethodInfo, TypeInfo)
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.html#AspectCore_Extensions_CrossProperties_PropertyInterceptorMatcher_Match_MethodInfo_TypeInfo_
+  commentId: M:AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.Match(MethodInfo,TypeInfo)
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.Match(MethodInfo, TypeInfo)
+  nameWithType: PropertyInterceptorMatcher.Match(MethodInfo, TypeInfo)
+- uid: AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.Match*
+  name: Match
+  href: api/AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.html#AspectCore_Extensions_CrossProperties_PropertyInterceptorMatcher_Match_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.Match
+  fullName: AspectCore.Extensions.CrossProperties.PropertyInterceptorMatcher.Match
+  nameWithType: PropertyInterceptorMatcher.Match
+- uid: AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions.html
+  commentId: T:AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions
+  fullName: AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions.AddCrossProperty(IServiceCollection)
+  name: AddCrossProperty(IServiceCollection)
+  href: api/AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions.html#AspectCore_Extensions_CrossProperties_ServiceCollectionExtensions_AddCrossProperty_IServiceCollection_
+  commentId: M:AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions.AddCrossProperty(IServiceCollection)
+  fullName: AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions.AddCrossProperty(IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.AddCrossProperty(IServiceCollection)
+- uid: AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions.AddCrossProperty*
+  name: AddCrossProperty
+  href: api/AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions.html#AspectCore_Extensions_CrossProperties_ServiceCollectionExtensions_AddCrossProperty_
+  commentId: Overload:AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions.AddCrossProperty
+  fullName: AspectCore.Extensions.CrossProperties.ServiceCollectionExtensions.AddCrossProperty
+  nameWithType: ServiceCollectionExtensions.AddCrossProperty
+- uid: AspectCore.Extensions.DependencyInjection
+  name: AspectCore.Extensions.DependencyInjection
+  href: api/AspectCore.Extensions.DependencyInjection.html
+  commentId: N:AspectCore.Extensions.DependencyInjection
+  fullName: AspectCore.Extensions.DependencyInjection
+  nameWithType: AspectCore.Extensions.DependencyInjection
+- uid: AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory
+  name: AspectCoreServiceProviderFactory
+  href: api/AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.html
+  commentId: T:AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory
+  fullName: AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory
+  nameWithType: AspectCoreServiceProviderFactory
+- uid: AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateBuilder(IServiceCollection)
+  name: CreateBuilder(IServiceCollection)
+  href: api/AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.html#AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_CreateBuilder_IServiceCollection_
+  commentId: M:AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateBuilder(IServiceCollection)
+  fullName: AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateBuilder(IServiceCollection)
+  nameWithType: AspectCoreServiceProviderFactory.CreateBuilder(IServiceCollection)
+- uid: AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateBuilder*
+  name: CreateBuilder
+  href: api/AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.html#AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_CreateBuilder_
+  commentId: Overload:AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateBuilder
+  fullName: AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateBuilder
+  nameWithType: AspectCoreServiceProviderFactory.CreateBuilder
+- uid: AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateServiceProvider(IServiceCollection)
+  name: CreateServiceProvider(IServiceCollection)
+  href: api/AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.html#AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_CreateServiceProvider_IServiceCollection_
+  commentId: M:AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateServiceProvider(IServiceCollection)
+  fullName: AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateServiceProvider(IServiceCollection)
+  nameWithType: AspectCoreServiceProviderFactory.CreateServiceProvider(IServiceCollection)
+- uid: AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateServiceProvider*
+  name: CreateServiceProvider
+  href: api/AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.html#AspectCore_Extensions_DependencyInjection_AspectCoreServiceProviderFactory_CreateServiceProvider_
+  commentId: Overload:AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateServiceProvider
+  fullName: AspectCore.Extensions.DependencyInjection.AspectCoreServiceProviderFactory.CreateServiceProvider
+  nameWithType: AspectCoreServiceProviderFactory.CreateServiceProvider
+- uid: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.html
+  commentId: T:AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions
+  fullName: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.AddAspectConfigure(IServiceCollection,Action{IAspectConfigure})
+  name: AddAspectConfigure(IServiceCollection, Action<IAspectConfigure>)
+  href: api/AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.html#AspectCore_Extensions_DependencyInjection_ServiceCollectionExtensions_AddAspectConfigure_IServiceCollection_Action_IAspectConfigure__
+  commentId: M:AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.AddAspectConfigure(IServiceCollection,Action{IAspectConfigure})
+  name.vb: AddAspectConfigure(IServiceCollection, Action(Of IAspectConfigure))
+  fullName: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.AddAspectConfigure(IServiceCollection, Action<IAspectConfigure>)
+  fullName.vb: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.AddAspectConfigure(IServiceCollection, Action(Of IAspectConfigure))
+  nameWithType: ServiceCollectionExtensions.AddAspectConfigure(IServiceCollection, Action<IAspectConfigure>)
+  nameWithType.vb: ServiceCollectionExtensions.AddAspectConfigure(IServiceCollection, Action(Of IAspectConfigure))
+- uid: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.AddAspectConfigure*
+  name: AddAspectConfigure
+  href: api/AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.html#AspectCore_Extensions_DependencyInjection_ServiceCollectionExtensions_AddAspectConfigure_
+  commentId: Overload:AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.AddAspectConfigure
+  fullName: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.AddAspectConfigure
+  nameWithType: ServiceCollectionExtensions.AddAspectConfigure
+- uid: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.BuildAspectCoreServiceProvider(IServiceCollection)
+  name: BuildAspectCoreServiceProvider(IServiceCollection)
+  href: api/AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.html#AspectCore_Extensions_DependencyInjection_ServiceCollectionExtensions_BuildAspectCoreServiceProvider_IServiceCollection_
+  commentId: M:AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.BuildAspectCoreServiceProvider(IServiceCollection)
+  fullName: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.BuildAspectCoreServiceProvider(IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.BuildAspectCoreServiceProvider(IServiceCollection)
+- uid: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.BuildAspectCoreServiceProvider*
+  name: BuildAspectCoreServiceProvider
+  href: api/AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.html#AspectCore_Extensions_DependencyInjection_ServiceCollectionExtensions_BuildAspectCoreServiceProvider_
+  commentId: Overload:AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.BuildAspectCoreServiceProvider
+  fullName: AspectCore.Extensions.DependencyInjection.ServiceCollectionExtensions.BuildAspectCoreServiceProvider
+  nameWithType: ServiceCollectionExtensions.BuildAspectCoreServiceProvider
 - uid: AspectCore.Extensions.DynamicProxy
   name: AspectCore.Extensions.DynamicProxy
   href: api/AspectCore.Extensions.DynamicProxy.html
