@@ -22,3 +22,7 @@
 	path = src/CrossProperties
 	url = https://github.com/AspectCore/CrossProperties
 	branch = master
+[submodule "src/DependencyInjection"]
+	path = src/DependencyInjection
+	url = https://github.com/AspectCore/DependencyInjection
+	branch = master
