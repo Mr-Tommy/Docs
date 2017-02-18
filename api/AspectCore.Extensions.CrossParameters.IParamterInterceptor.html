@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>ModelRequiredExtensions 类
+    <title>IParamterInterceptor 接口
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="ModelRequiredExtensions 类
+    <meta name="title" content="IParamterInterceptor 接口
    ">
     <meta name="generator" content="docfx 2.11.2.0">
     
@@ -65,37 +65,32 @@
             <article class="content wrap" id="_content">
               
               
-              <h1 id="AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredExtensions" data-uid="AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions">ModelRequiredExtensions 类
+              <h1 id="AspectCore_Extensions_CrossParameters_IParamterInterceptor" data-uid="AspectCore.Extensions.CrossParameters.IParamterInterceptor">IParamterInterceptor 接口
               </h1>
               <div class="markdown level0 summary"></div>
               <div class="markdown level0 conceptual"></div>
-              <div class="inheritance">
-                <h5>&#32487;&#25215;</h5>
-                  <div class="level0"><span class="xref">System.Object</span></div>
-                  <div class="level1"><span class="xref">ModelRequiredExtensions</span></div>
-              </div>
-              <h6><strong>&#21629;&#21517;&#31354;&#38388;</strong>:AspectCore.Extensions.CrossParameters.Interceptions.Models</h6>
+              <h6><strong>&#21629;&#21517;&#31354;&#38388;</strong>:AspectCore.Extensions.CrossParameters</h6>
               <h6><strong>&#31243;&#24207;&#38598;</strong>:AspectCore.Extensions.CrossParameters.dll</h6>
-              <h5 id="AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredExtensions_syntax">&#35821;&#27861;</h5>
+              <h5 id="AspectCore_Extensions_CrossParameters_IParamterInterceptor_syntax">&#35821;&#27861;</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public static class ModelRequiredExtensions : object</code></pre>
+                <pre><code class="lang-csharp hljs">public interface IParamterInterceptor</code></pre>
               </div>
               <h3 id="methods">&#26041;&#27861;
               </h3>
               <span class="small pull-right mobile-hide">
                 <span class="divider">|</span>
-                <a href="https://github.com/AspectCore/CrossParameters/new/d4d1af80df033068928e64568bc4c6b11355564a/apiSpec/new?filename=AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredExtensions_IsModelInterceptor_Type_.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.IsModelInterceptor(Type)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
+                <a href="https://github.com/AspectCore/CrossParameters/new/fb1c66e51b0eadb3e3d46a2a24cc0dd23d45e352/apiSpec/new?filename=AspectCore_Extensions_CrossParameters_IParamterInterceptor_Invoke_ParameterDescriptor_AspectCore_Extensions_CrossParameters_ParameterAspectContext_AspectCore_Extensions_CrossParameters_ParameterAspectDelegate_.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.CrossParameters.IParamterInterceptor.Invoke(ParameterDescriptor%2CAspectCore.Extensions.CrossParameters.ParameterAspectContext%2CAspectCore.Extensions.CrossParameters.ParameterAspectDelegate)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
               </span>
               <span class="small pull-right mobile-hide">
-                <a href="https://github.com/AspectCore/CrossParameters/blob/d4d1af80df033068928e64568bc4c6b11355564a/src/AspectCore.Extensions.CrossParameters/Interceptions/Models/ModelRequiredExtensions.cs/#L8">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
+                <a href="https://github.com/AspectCore/CrossParameters/blob/fb1c66e51b0eadb3e3d46a2a24cc0dd23d45e352/src/AspectCore.Extensions.CrossParameters/Interceptions/IParamterInterceptor.cs/#L9">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
               </span>
-              <a id="AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredExtensions_IsModelInterceptor_" data-uid="AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.IsModelInterceptor*"></a>
-              <h4 id="AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredExtensions_IsModelInterceptor_Type_" data-uid="AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions.IsModelInterceptor(Type)">IsModelInterceptor(Type)</h4>
+              <a id="AspectCore_Extensions_CrossParameters_IParamterInterceptor_Invoke_" data-uid="AspectCore.Extensions.CrossParameters.IParamterInterceptor.Invoke*"></a>
+              <h4 id="AspectCore_Extensions_CrossParameters_IParamterInterceptor_Invoke_ParameterDescriptor_AspectCore_Extensions_CrossParameters_ParameterAspectContext_AspectCore_Extensions_CrossParameters_ParameterAspectDelegate_" data-uid="AspectCore.Extensions.CrossParameters.IParamterInterceptor.Invoke(ParameterDescriptor,AspectCore.Extensions.CrossParameters.ParameterAspectContext,AspectCore.Extensions.CrossParameters.ParameterAspectDelegate)">Invoke(ParameterDescriptor, ParameterAspectContext, ParameterAspectDelegate)</h4>
               <div class="markdown level1 summary"></div>
               <div class="markdown level1 conceptual"></div>
               <h5 class="decalaration">&#22768;&#26126;</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">public static bool IsModelInterceptor(this Type type)</code></pre>
+                <pre><code class="lang-csharp hljs">Task Invoke(ParameterDescriptor parameter, ParameterAspectContext context, ParameterAspectDelegate next)</code></pre>
               </div>
               <h5 class="parameters">&#21442;&#25968;</h5>
               <table class="table table-bordered table-striped table-condensed">
@@ -108,8 +103,18 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">Type</span></td>
-                    <td><span class="parametername">type</span></td>
+                    <td><span class="xref">ParameterDescriptor</span></td>
+                    <td><span class="parametername">parameter</span></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td><a class="xref" href="AspectCore.Extensions.CrossParameters.ParameterAspectContext.html">ParameterAspectContext</a></td>
+                    <td><span class="parametername">context</span></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td><a class="xref" href="AspectCore.Extensions.CrossParameters.ParameterAspectDelegate.html">ParameterAspectDelegate</a></td>
+                    <td><span class="parametername">next</span></td>
                     <td></td>
                   </tr>
                 </tbody>
@@ -124,7 +129,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td><span class="xref">System.Boolean</span></td>
+                    <td><span class="xref">Task</span></td>
                     <td></td>
                   </tr>
                 </tbody>
@@ -137,10 +142,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AspectCore/CrossParameters/new/d4d1af80df033068928e64568bc4c6b11355564a/apiSpec/new?filename=AspectCore_Extensions_CrossParameters_Interceptions_Models_ModelRequiredExtensions.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.CrossParameters.Interceptions.Models.ModelRequiredExtensions%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
+                    <a href="https://github.com/AspectCore/CrossParameters/new/fb1c66e51b0eadb3e3d46a2a24cc0dd23d45e352/apiSpec/new?filename=AspectCore_Extensions_CrossParameters_IParamterInterceptor.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.CrossParameters.IParamterInterceptor%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AspectCore/CrossParameters/blob/d4d1af80df033068928e64568bc4c6b11355564a/src/AspectCore.Extensions.CrossParameters/Interceptions/Models/ModelRequiredExtensions.cs/#L6" class="contribution-link">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
+                    <a href="https://github.com/AspectCore/CrossParameters/blob/fb1c66e51b0eadb3e3d46a2a24cc0dd23d45e352/src/AspectCore.Extensions.CrossParameters/Interceptions/IParamterInterceptor.cs/#L6" class="contribution-link">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
                   </li>
                 </ul>
               </div>
