@@ -75,54 +75,84 @@
               <div class="codewrapper">
                 <pre><code class="lang-csharp hljs">public interface IProxyFactory</code></pre>
               </div>
-              <h3 id="properties">&#23646;&#24615;
-              </h3>
-              <span class="small pull-right mobile-hide">
-                <span class="divider">|</span>
-                <a href="https://github.com/AspectCore/DynamicProxy/new/master/apiSpec/new?filename=AspectCore_Extensions_DynamicProxy_IProxyFactory_ServiceProvider.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.DynamicProxy.IProxyFactory.ServiceProvider%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
-              </span>
-              <span class="small pull-right mobile-hide">
-                <a href="https://github.com/AspectCore/DynamicProxy/blob/master/src/AspectCore.Extensions.DynamicProxy/Core/IProxyFactory.cs/#L7">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
-              </span>
-              <a id="AspectCore_Extensions_DynamicProxy_IProxyFactory_ServiceProvider_" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.ServiceProvider*"></a>
-              <h4 id="AspectCore_Extensions_DynamicProxy_IProxyFactory_ServiceProvider" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.ServiceProvider">ServiceProvider</h4>
-              <div class="markdown level1 summary"></div>
-              <div class="markdown level1 conceptual"></div>
-              <h5 class="decalaration">&#22768;&#26126;</h5>
-              <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">IServiceProvider ServiceProvider { get; }</code></pre>
-              </div>
-              <h5 class="propertyValue">&#23646;&#24615;&#20540;</h5>
-              <table class="table table-bordered table-striped table-condensed">
-                <thead>
-                  <tr>
-                    <th>&#31867;&#22411;</th>
-                    <th>&#25551;&#36848;</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td><span class="xref">IServiceProvider</span></td>
-                    <td></td>
-                  </tr>
-                </tbody>
-              </table>
               <h3 id="methods">&#26041;&#27861;
               </h3>
               <span class="small pull-right mobile-hide">
                 <span class="divider">|</span>
-                <a href="https://github.com/AspectCore/DynamicProxy/new/master/apiSpec/new?filename=AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateClassProxy_Type_Type_Type___System_Object___.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type%2CType%2CType%5B%5D%2CSystem.Object%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
+                <a href="https://github.com/AspectCore/DynamicProxy/new/master/apiSpec/new?filename=AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateClassProxy_Type_Type_System_Object___Type___.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type%2CType%2CSystem.Object%5B%5D%2CType%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
+              </span>
+              <span class="small pull-right mobile-hide">
+                <a href="https://github.com/AspectCore/DynamicProxy/blob/master/src/AspectCore.Extensions.DynamicProxy/Core/IProxyFactory.cs/#L7">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
+              </span>
+              <a id="AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateClassProxy_" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy*"></a>
+              <h4 id="AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateClassProxy_Type_Type_System_Object___Type___" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type,Type,System.Object[],Type[])">CreateClassProxy(Type, Type, Object[], Type[])</h4>
+              <div class="markdown level1 summary"></div>
+              <div class="markdown level1 conceptual"></div>
+              <h5 class="decalaration">&#22768;&#26126;</h5>
+              <div class="codewrapper">
+                <pre><code class="lang-csharp hljs">object CreateClassProxy(Type serviceType, Type implementationType, object[] args, Type[] additionalInterfaces)</code></pre>
+              </div>
+              <h5 class="parameters">&#21442;&#25968;</h5>
+              <table class="table table-bordered table-striped table-condensed">
+                <thead>
+                  <tr>
+                    <th>&#31867;&#22411;</th>
+                    <th>&#21517;&#31216;</th>
+                    <th>&#25551;&#36848;</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><span class="xref">Type</span></td>
+                    <td><span class="parametername">serviceType</span></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td><span class="xref">Type</span></td>
+                    <td><span class="parametername">implementationType</span></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td><span class="xref">System.Object</span>[]</td>
+                    <td><span class="parametername">args</span></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td><span class="xref">Type</span>[]</td>
+                    <td><span class="parametername">additionalInterfaces</span></td>
+                    <td></td>
+                  </tr>
+                </tbody>
+              </table>
+              <h5 class="returns">&#36820;&#22238;</h5>
+              <table class="table table-bordered table-striped table-condensed">
+                <thead>
+                  <tr>
+                    <th>&#31867;&#22411;</th>
+                    <th>&#25551;&#36848;</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><span class="xref">System.Object</span></td>
+                    <td></td>
+                  </tr>
+                </tbody>
+              </table>
+              <span class="small pull-right mobile-hide">
+                <span class="divider">|</span>
+                <a href="https://github.com/AspectCore/DynamicProxy/new/master/apiSpec/new?filename=AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_Type_Type_System_Object___Type___.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type%2CType%2CSystem.Object%5B%5D%2CType%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
               </span>
               <span class="small pull-right mobile-hide">
                 <a href="https://github.com/AspectCore/DynamicProxy/blob/master/src/AspectCore.Extensions.DynamicProxy/Core/IProxyFactory.cs/#L9">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
               </span>
-              <a id="AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateClassProxy_" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy*"></a>
-              <h4 id="AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateClassProxy_Type_Type_Type___System_Object___" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type,Type,Type[],System.Object[])">CreateClassProxy(Type, Type, Type[], Object[])</h4>
+              <a id="AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy*"></a>
+              <h4 id="AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_Type_Type_System_Object___Type___" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type,Type,System.Object[],Type[])">CreateInterfaceProxy(Type, Type, Object[], Type[])</h4>
               <div class="markdown level1 summary"></div>
               <div class="markdown level1 conceptual"></div>
               <h5 class="decalaration">&#22768;&#26126;</h5>
               <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">object CreateClassProxy(Type serviceType, Type implementationType, Type[] interfaces, object[] args)</code></pre>
+                <pre><code class="lang-csharp hljs">object CreateInterfaceProxy(Type serviceType, Type implementationType, object[] args, Type[] additionalInterfaces)</code></pre>
               </div>
               <h5 class="parameters">&#21442;&#25968;</h5>
               <table class="table table-bordered table-striped table-condensed">
@@ -145,132 +175,13 @@
                     <td></td>
                   </tr>
                   <tr>
-                    <td><span class="xref">Type</span>[]</td>
-                    <td><span class="parametername">interfaces</span></td>
-                    <td></td>
-                  </tr>
-                  <tr>
                     <td><span class="xref">System.Object</span>[]</td>
                     <td><span class="parametername">args</span></td>
                     <td></td>
                   </tr>
-                </tbody>
-              </table>
-              <h5 class="returns">&#36820;&#22238;</h5>
-              <table class="table table-bordered table-striped table-condensed">
-                <thead>
-                  <tr>
-                    <th>&#31867;&#22411;</th>
-                    <th>&#25551;&#36848;</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td><span class="xref">System.Object</span></td>
-                    <td></td>
-                  </tr>
-                </tbody>
-              </table>
-              <span class="small pull-right mobile-hide">
-                <span class="divider">|</span>
-                <a href="https://github.com/AspectCore/DynamicProxy/new/master/apiSpec/new?filename=AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_Type_System_Object_Type___.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type%2CSystem.Object%2CType%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
-              </span>
-              <span class="small pull-right mobile-hide">
-                <a href="https://github.com/AspectCore/DynamicProxy/blob/master/src/AspectCore.Extensions.DynamicProxy/Core/IProxyFactory.cs/#L13">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
-              </span>
-              <a id="AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy*"></a>
-              <h4 id="AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_Type_System_Object_Type___" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type,System.Object,Type[])">CreateInterfaceProxy(Type, Object, Type[])</h4>
-              <div class="markdown level1 summary"></div>
-              <div class="markdown level1 conceptual"></div>
-              <h5 class="decalaration">&#22768;&#26126;</h5>
-              <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">object CreateInterfaceProxy(Type serviceType, object serviceInstance, Type[] interfaces)</code></pre>
-              </div>
-              <h5 class="parameters">&#21442;&#25968;</h5>
-              <table class="table table-bordered table-striped table-condensed">
-                <thead>
-                  <tr>
-                    <th>&#31867;&#22411;</th>
-                    <th>&#21517;&#31216;</th>
-                    <th>&#25551;&#36848;</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td><span class="xref">Type</span></td>
-                    <td><span class="parametername">serviceType</span></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <td><span class="xref">System.Object</span></td>
-                    <td><span class="parametername">serviceInstance</span></td>
-                    <td></td>
-                  </tr>
                   <tr>
                     <td><span class="xref">Type</span>[]</td>
-                    <td><span class="parametername">interfaces</span></td>
-                    <td></td>
-                  </tr>
-                </tbody>
-              </table>
-              <h5 class="returns">&#36820;&#22238;</h5>
-              <table class="table table-bordered table-striped table-condensed">
-                <thead>
-                  <tr>
-                    <th>&#31867;&#22411;</th>
-                    <th>&#25551;&#36848;</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td><span class="xref">System.Object</span></td>
-                    <td></td>
-                  </tr>
-                </tbody>
-              </table>
-              <span class="small pull-right mobile-hide">
-                <span class="divider">|</span>
-                <a href="https://github.com/AspectCore/DynamicProxy/new/master/apiSpec/new?filename=AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_Type_Type_Type___System_Object___.md&amp;value=---%0Auid%3A%20AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type%2CType%2CType%5B%5D%2CSystem.Object%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">&#25913;&#21892;&#27492;&#25991;&#26723;</a>
-              </span>
-              <span class="small pull-right mobile-hide">
-                <a href="https://github.com/AspectCore/DynamicProxy/blob/master/src/AspectCore.Extensions.DynamicProxy/Core/IProxyFactory.cs/#L11">&#26597;&#30475;&#28304;&#20195;&#30721;</a>
-              </span>
-              <a id="AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy*"></a>
-              <h4 id="AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_Type_Type_Type___System_Object___" data-uid="AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type,Type,Type[],System.Object[])">CreateInterfaceProxy(Type, Type, Type[], Object[])</h4>
-              <div class="markdown level1 summary"></div>
-              <div class="markdown level1 conceptual"></div>
-              <h5 class="decalaration">&#22768;&#26126;</h5>
-              <div class="codewrapper">
-                <pre><code class="lang-csharp hljs">object CreateInterfaceProxy(Type serviceType, Type implementationType, Type[] interfaces, object[] args)</code></pre>
-              </div>
-              <h5 class="parameters">&#21442;&#25968;</h5>
-              <table class="table table-bordered table-striped table-condensed">
-                <thead>
-                  <tr>
-                    <th>&#31867;&#22411;</th>
-                    <th>&#21517;&#31216;</th>
-                    <th>&#25551;&#36848;</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td><span class="xref">Type</span></td>
-                    <td><span class="parametername">serviceType</span></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <td><span class="xref">Type</span></td>
-                    <td><span class="parametername">implementationType</span></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <td><span class="xref">Type</span>[]</td>
-                    <td><span class="parametername">interfaces</span></td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <td><span class="xref">System.Object</span>[]</td>
-                    <td><span class="parametername">args</span></td>
+                    <td><span class="parametername">additionalInterfaces</span></td>
                     <td></td>
                   </tr>
                 </tbody>
@@ -292,16 +203,55 @@
               </table>
               <h3 id="extensionmethods">&#25193;&#23637;&#26041;&#27861;</h3>
               <div>
-                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__1_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type___System_Object___">ProxyFactoryExtensions.CreateClassProxy&lt;TService&gt;(IProxyFactory, Type[], Object[])</a>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_">ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type)</a>
               </div>
               <div>
-                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type___System_Object___">ProxyFactoryExtensions.CreateClassProxy&lt;TService, TImplementation&gt;(IProxyFactory, Type[], Object[])</a>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_System_Object___">ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Object[])</a>
               </div>
               <div>
-                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type___System_Object___">ProxyFactoryExtensions.CreateInterfaceProxy&lt;TService, TImplementation&gt;(IProxyFactory, Type[], Object[])</a>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type___">ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type[])</a>
               </div>
               <div>
-                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy__1_AspectCore_Extensions_DynamicProxy_IProxyFactory___0_Type___">ProxyFactoryExtensions.CreateInterfaceProxy&lt;TService&gt;(IProxyFactory, TService, Type[])</a>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_System_Object___Type___">ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Object[], Type[])</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_">ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type)</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_System_Object___">ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type, Object[])</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_Type___">ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type, Type[])</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__1_AspectCore_Extensions_DynamicProxy_IProxyFactory_">ProxyFactoryExtensions.CreateClassProxy&lt;TImplementation&gt;(IProxyFactory)</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type___">ProxyFactoryExtensions.CreateClassProxy&lt;TService, TImplementation&gt;(IProxyFactory, Type[])</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_System_Object___">ProxyFactoryExtensions.CreateClassProxy&lt;TService, TImplementation&gt;(IProxyFactory, Object[])</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_System_Object___Type___">ProxyFactoryExtensions.CreateClassProxy&lt;TService, TImplementation&gt;(IProxyFactory, Object[], Type[])</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_">ProxyFactoryExtensions.CreateInterfaceProxy(IProxyFactory, Type, Type)</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_System_Object___">ProxyFactoryExtensions.CreateInterfaceProxy(IProxyFactory, Type, Type, Object[])</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_Type___">ProxyFactoryExtensions.CreateInterfaceProxy(IProxyFactory, Type, Type, Type[])</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type___">ProxyFactoryExtensions.CreateInterfaceProxy&lt;TService, TImplementation&gt;(IProxyFactory, Type[])</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_System_Object___">ProxyFactoryExtensions.CreateInterfaceProxy&lt;TService, TImplementation&gt;(IProxyFactory, Object[])</a>
+              </div>
+              <div>
+                  <a class="xref" href="AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_System_Object___Type___">ProxyFactoryExtensions.CreateInterfaceProxy&lt;TService, TImplementation&gt;(IProxyFactory, Object[], Type[])</a>
               </div>
                         </article>
           </div>

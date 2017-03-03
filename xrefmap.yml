@@ -4466,57 +4466,36 @@ references:
   commentId: T:AspectCore.Extensions.DynamicProxy.IProxyFactory
   fullName: AspectCore.Extensions.DynamicProxy.IProxyFactory
   nameWithType: IProxyFactory
-- uid: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type,Type,Type[],System.Object[])
-  name: CreateClassProxy(Type, Type, Type[], Object[])
-  href: api/AspectCore.Extensions.DynamicProxy.IProxyFactory.html#AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateClassProxy_Type_Type_Type___System_Object___
-  commentId: M:AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type,Type,Type[],System.Object[])
-  name.vb: CreateClassProxy(Type, Type, Type(), Object())
-  fullName: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type, Type, Type[], System.Object[])
-  fullName.vb: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type, Type, Type(), System.Object())
-  nameWithType: IProxyFactory.CreateClassProxy(Type, Type, Type[], Object[])
-  nameWithType.vb: IProxyFactory.CreateClassProxy(Type, Type, Type(), Object())
+- uid: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type,Type,System.Object[],Type[])
+  name: CreateClassProxy(Type, Type, Object[], Type[])
+  href: api/AspectCore.Extensions.DynamicProxy.IProxyFactory.html#AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateClassProxy_Type_Type_System_Object___Type___
+  commentId: M:AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type,Type,System.Object[],Type[])
+  name.vb: CreateClassProxy(Type, Type, Object(), Type())
+  fullName: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type, Type, System.Object[], Type[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy(Type, Type, System.Object(), Type())
+  nameWithType: IProxyFactory.CreateClassProxy(Type, Type, Object[], Type[])
+  nameWithType.vb: IProxyFactory.CreateClassProxy(Type, Type, Object(), Type())
 - uid: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy*
   name: CreateClassProxy
   href: api/AspectCore.Extensions.DynamicProxy.IProxyFactory.html#AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateClassProxy_
   commentId: Overload:AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy
   fullName: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateClassProxy
   nameWithType: IProxyFactory.CreateClassProxy
-- uid: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type,System.Object,Type[])
-  name: CreateInterfaceProxy(Type, Object, Type[])
-  href: api/AspectCore.Extensions.DynamicProxy.IProxyFactory.html#AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_Type_System_Object_Type___
-  commentId: M:AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type,System.Object,Type[])
-  name.vb: CreateInterfaceProxy(Type, Object, Type())
-  fullName: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type, System.Object, Type[])
-  fullName.vb: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type, System.Object, Type())
-  nameWithType: IProxyFactory.CreateInterfaceProxy(Type, Object, Type[])
-  nameWithType.vb: IProxyFactory.CreateInterfaceProxy(Type, Object, Type())
-- uid: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type,Type,Type[],System.Object[])
-  name: CreateInterfaceProxy(Type, Type, Type[], Object[])
-  href: api/AspectCore.Extensions.DynamicProxy.IProxyFactory.html#AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_Type_Type_Type___System_Object___
-  commentId: M:AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type,Type,Type[],System.Object[])
-  name.vb: CreateInterfaceProxy(Type, Type, Type(), Object())
-  fullName: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type, Type, Type[], System.Object[])
-  fullName.vb: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type, Type, Type(), System.Object())
-  nameWithType: IProxyFactory.CreateInterfaceProxy(Type, Type, Type[], Object[])
-  nameWithType.vb: IProxyFactory.CreateInterfaceProxy(Type, Type, Type(), Object())
+- uid: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type,Type,System.Object[],Type[])
+  name: CreateInterfaceProxy(Type, Type, Object[], Type[])
+  href: api/AspectCore.Extensions.DynamicProxy.IProxyFactory.html#AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_Type_Type_System_Object___Type___
+  commentId: M:AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type,Type,System.Object[],Type[])
+  name.vb: CreateInterfaceProxy(Type, Type, Object(), Type())
+  fullName: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type, Type, System.Object[], Type[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy(Type, Type, System.Object(), Type())
+  nameWithType: IProxyFactory.CreateInterfaceProxy(Type, Type, Object[], Type[])
+  nameWithType.vb: IProxyFactory.CreateInterfaceProxy(Type, Type, Object(), Type())
 - uid: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy*
   name: CreateInterfaceProxy
   href: api/AspectCore.Extensions.DynamicProxy.IProxyFactory.html#AspectCore_Extensions_DynamicProxy_IProxyFactory_CreateInterfaceProxy_
   commentId: Overload:AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy
   fullName: AspectCore.Extensions.DynamicProxy.IProxyFactory.CreateInterfaceProxy
   nameWithType: IProxyFactory.CreateInterfaceProxy
-- uid: AspectCore.Extensions.DynamicProxy.IProxyFactory.ServiceProvider
-  name: ServiceProvider
-  href: api/AspectCore.Extensions.DynamicProxy.IProxyFactory.html#AspectCore_Extensions_DynamicProxy_IProxyFactory_ServiceProvider
-  commentId: P:AspectCore.Extensions.DynamicProxy.IProxyFactory.ServiceProvider
-  fullName: AspectCore.Extensions.DynamicProxy.IProxyFactory.ServiceProvider
-  nameWithType: IProxyFactory.ServiceProvider
-- uid: AspectCore.Extensions.DynamicProxy.IProxyFactory.ServiceProvider*
-  name: ServiceProvider
-  href: api/AspectCore.Extensions.DynamicProxy.IProxyFactory.html#AspectCore_Extensions_DynamicProxy_IProxyFactory_ServiceProvider_
-  commentId: Overload:AspectCore.Extensions.DynamicProxy.IProxyFactory.ServiceProvider
-  fullName: AspectCore.Extensions.DynamicProxy.IProxyFactory.ServiceProvider
-  nameWithType: IProxyFactory.ServiceProvider
 - uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder
   name: ProxyFactoryBuilder
   href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.html
@@ -4535,90 +4514,183 @@ references:
   commentId: Overload:AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.Build
   fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.Build
   nameWithType: ProxyFactoryBuilder.Build
-- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseConfiguration(Action{IAspectConfigure})
-  name: UseConfiguration(Action<IAspectConfigure>)
-  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryBuilder_UseConfiguration_Action_IAspectConfigure__
-  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseConfiguration(Action{IAspectConfigure})
-  name.vb: UseConfiguration(Action(Of IAspectConfigure))
-  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseConfiguration(Action<IAspectConfigure>)
-  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseConfiguration(Action(Of IAspectConfigure))
-  nameWithType: ProxyFactoryBuilder.UseConfiguration(Action<IAspectConfigure>)
-  nameWithType.vb: ProxyFactoryBuilder.UseConfiguration(Action(Of IAspectConfigure))
-- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseConfiguration*
-  name: UseConfiguration
-  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryBuilder_UseConfiguration_
-  commentId: Overload:AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseConfiguration
-  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseConfiguration
-  nameWithType: ProxyFactoryBuilder.UseConfiguration
-- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseServiceProvider(Func{IAspectConfigure,IServiceProvider})
-  name: UseServiceProvider(Func<IAspectConfigure, IServiceProvider>)
-  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryBuilder_UseServiceProvider_Func_IAspectConfigure_IServiceProvider__
-  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseServiceProvider(Func{IAspectConfigure,IServiceProvider})
-  name.vb: UseServiceProvider(Func(Of IAspectConfigure, IServiceProvider))
-  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseServiceProvider(Func<IAspectConfigure, IServiceProvider>)
-  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseServiceProvider(Func(Of IAspectConfigure, IServiceProvider))
-  nameWithType: ProxyFactoryBuilder.UseServiceProvider(Func<IAspectConfigure, IServiceProvider>)
-  nameWithType.vb: ProxyFactoryBuilder.UseServiceProvider(Func(Of IAspectConfigure, IServiceProvider))
-- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseServiceProvider*
-  name: UseServiceProvider
-  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryBuilder_UseServiceProvider_
-  commentId: Overload:AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseServiceProvider
-  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.UseServiceProvider
-  nameWithType: ProxyFactoryBuilder.UseServiceProvider
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.Configure(Action{IAspectConfigure})
+  name: Configure(Action<IAspectConfigure>)
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryBuilder_Configure_Action_IAspectConfigure__
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.Configure(Action{IAspectConfigure})
+  name.vb: Configure(Action(Of IAspectConfigure))
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.Configure(Action<IAspectConfigure>)
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.Configure(Action(Of IAspectConfigure))
+  nameWithType: ProxyFactoryBuilder.Configure(Action<IAspectConfigure>)
+  nameWithType.vb: ProxyFactoryBuilder.Configure(Action(Of IAspectConfigure))
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.Configure*
+  name: Configure
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryBuilder_Configure_
+  commentId: Overload:AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.Configure
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryBuilder.Configure
+  nameWithType: ProxyFactoryBuilder.Configure
 - uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions
   name: ProxyFactoryExtensions
   href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html
   commentId: T:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions
   fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions
   nameWithType: ProxyFactoryExtensions
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type)
+  name: CreateClassProxy(IProxyFactory, Type)
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type)
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type)
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type)
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,System.Object[])
+  name: CreateClassProxy(IProxyFactory, Type, Object[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_System_Object___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,System.Object[])
+  name.vb: CreateClassProxy(IProxyFactory, Type, Object())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, System.Object[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, System.Object())
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Object[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Object())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,System.Object[],Type[])
+  name: CreateClassProxy(IProxyFactory, Type, Object[], Type[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_System_Object___Type___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,System.Object[],Type[])
+  name.vb: CreateClassProxy(IProxyFactory, Type, Object(), Type())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, System.Object[], Type[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, System.Object(), Type())
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Object[], Type[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Object(), Type())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type)
+  name: CreateClassProxy(IProxyFactory, Type, Type)
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type)
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type)
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type)
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type,System.Object[])
+  name: CreateClassProxy(IProxyFactory, Type, Type, Object[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_System_Object___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type,System.Object[])
+  name.vb: CreateClassProxy(IProxyFactory, Type, Type, Object())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type, System.Object[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type, System.Object())
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type, Object[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type, Object())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type,Type[])
+  name: CreateClassProxy(IProxyFactory, Type, Type, Type[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_Type___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type,Type[])
+  name.vb: CreateClassProxy(IProxyFactory, Type, Type, Type())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type, Type[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type, Type())
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type, Type[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type, Type())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type[])
+  name: CreateClassProxy(IProxyFactory, Type, Type[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type[])
+  name.vb: CreateClassProxy(IProxyFactory, Type, Type())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type())
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(IProxyFactory, Type, Type())
 - uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy*
   name: CreateClassProxy
   href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy_
   commentId: Overload:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy
   fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy
   nameWithType: ProxyFactoryExtensions.CreateClassProxy
-- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``1(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type[],System.Object[])
-  name: CreateClassProxy<TService>(IProxyFactory, Type[], Object[])
-  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__1_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type___System_Object___
-  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``1(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type[],System.Object[])
-  name.vb: CreateClassProxy(Of TService)(IProxyFactory, Type(), Object())
-  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy<TService>(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type[], System.Object[])
-  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(Of TService)(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type(), System.Object())
-  nameWithType: ProxyFactoryExtensions.CreateClassProxy<TService>(IProxyFactory, Type[], Object[])
-  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(Of TService)(IProxyFactory, Type(), Object())
-- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type[],System.Object[])
-  name: CreateClassProxy<TService, TImplementation>(IProxyFactory, Type[], Object[])
-  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type___System_Object___
-  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type[],System.Object[])
-  name.vb: CreateClassProxy(Of TService, TImplementation)(IProxyFactory, Type(), Object())
-  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy<TService, TImplementation>(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type[], System.Object[])
-  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(Of TService, TImplementation)(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type(), System.Object())
-  nameWithType: ProxyFactoryExtensions.CreateClassProxy<TService, TImplementation>(IProxyFactory, Type[], Object[])
-  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(Of TService, TImplementation)(IProxyFactory, Type(), Object())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``1(AspectCore.Extensions.DynamicProxy.IProxyFactory)
+  name: CreateClassProxy<TImplementation>(IProxyFactory)
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__1_AspectCore_Extensions_DynamicProxy_IProxyFactory_
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``1(AspectCore.Extensions.DynamicProxy.IProxyFactory)
+  name.vb: CreateClassProxy(Of TImplementation)(IProxyFactory)
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy<TImplementation>(AspectCore.Extensions.DynamicProxy.IProxyFactory)
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(Of TImplementation)(AspectCore.Extensions.DynamicProxy.IProxyFactory)
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy<TImplementation>(IProxyFactory)
+  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(Of TImplementation)(IProxyFactory)
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,System.Object[])
+  name: CreateClassProxy<TService, TImplementation>(IProxyFactory, Object[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_System_Object___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,System.Object[])
+  name.vb: CreateClassProxy(Of TService, TImplementation)(IProxyFactory, Object())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy<TService, TImplementation>(AspectCore.Extensions.DynamicProxy.IProxyFactory, System.Object[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(Of TService, TImplementation)(AspectCore.Extensions.DynamicProxy.IProxyFactory, System.Object())
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy<TService, TImplementation>(IProxyFactory, Object[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(Of TService, TImplementation)(IProxyFactory, Object())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,System.Object[],Type[])
+  name: CreateClassProxy<TService, TImplementation>(IProxyFactory, Object[], Type[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_System_Object___Type___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,System.Object[],Type[])
+  name.vb: CreateClassProxy(Of TService, TImplementation)(IProxyFactory, Object(), Type())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy<TService, TImplementation>(AspectCore.Extensions.DynamicProxy.IProxyFactory, System.Object[], Type[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(Of TService, TImplementation)(AspectCore.Extensions.DynamicProxy.IProxyFactory, System.Object(), Type())
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy<TService, TImplementation>(IProxyFactory, Object[], Type[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(Of TService, TImplementation)(IProxyFactory, Object(), Type())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type[])
+  name: CreateClassProxy<TService, TImplementation>(IProxyFactory, Type[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateClassProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type[])
+  name.vb: CreateClassProxy(Of TService, TImplementation)(IProxyFactory, Type())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy<TService, TImplementation>(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateClassProxy(Of TService, TImplementation)(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type())
+  nameWithType: ProxyFactoryExtensions.CreateClassProxy<TService, TImplementation>(IProxyFactory, Type[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateClassProxy(Of TService, TImplementation)(IProxyFactory, Type())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type)
+  name: CreateInterfaceProxy(IProxyFactory, Type, Type)
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type)
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type)
+  nameWithType: ProxyFactoryExtensions.CreateInterfaceProxy(IProxyFactory, Type, Type)
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type,System.Object[])
+  name: CreateInterfaceProxy(IProxyFactory, Type, Type, Object[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_System_Object___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type,System.Object[])
+  name.vb: CreateInterfaceProxy(IProxyFactory, Type, Type, Object())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type, System.Object[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type, System.Object())
+  nameWithType: ProxyFactoryExtensions.CreateInterfaceProxy(IProxyFactory, Type, Type, Object[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateInterfaceProxy(IProxyFactory, Type, Type, Object())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type,Type[])
+  name: CreateInterfaceProxy(IProxyFactory, Type, Type, Type[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type_Type_Type___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type,Type,Type[])
+  name.vb: CreateInterfaceProxy(IProxyFactory, Type, Type, Type())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type, Type[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type, Type, Type())
+  nameWithType: ProxyFactoryExtensions.CreateInterfaceProxy(IProxyFactory, Type, Type, Type[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateInterfaceProxy(IProxyFactory, Type, Type, Type())
 - uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy*
   name: CreateInterfaceProxy
   href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy_
   commentId: Overload:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy
   fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy
   nameWithType: ProxyFactoryExtensions.CreateInterfaceProxy
-- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy``1(AspectCore.Extensions.DynamicProxy.IProxyFactory,``0,Type[])
-  name: CreateInterfaceProxy<TService>(IProxyFactory, TService, Type[])
-  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy__1_AspectCore_Extensions_DynamicProxy_IProxyFactory___0_Type___
-  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy``1(AspectCore.Extensions.DynamicProxy.IProxyFactory,``0,Type[])
-  name.vb: CreateInterfaceProxy(Of TService)(IProxyFactory, TService, Type())
-  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy<TService>(AspectCore.Extensions.DynamicProxy.IProxyFactory, TService, Type[])
-  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(Of TService)(AspectCore.Extensions.DynamicProxy.IProxyFactory, TService, Type())
-  nameWithType: ProxyFactoryExtensions.CreateInterfaceProxy<TService>(IProxyFactory, TService, Type[])
-  nameWithType.vb: ProxyFactoryExtensions.CreateInterfaceProxy(Of TService)(IProxyFactory, TService, Type())
-- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type[],System.Object[])
-  name: CreateInterfaceProxy<TService, TImplementation>(IProxyFactory, Type[], Object[])
-  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type___System_Object___
-  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type[],System.Object[])
-  name.vb: CreateInterfaceProxy(Of TService, TImplementation)(IProxyFactory, Type(), Object())
-  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy<TService, TImplementation>(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type[], System.Object[])
-  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(Of TService, TImplementation)(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type(), System.Object())
-  nameWithType: ProxyFactoryExtensions.CreateInterfaceProxy<TService, TImplementation>(IProxyFactory, Type[], Object[])
-  nameWithType.vb: ProxyFactoryExtensions.CreateInterfaceProxy(Of TService, TImplementation)(IProxyFactory, Type(), Object())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,System.Object[])
+  name: CreateInterfaceProxy<TService, TImplementation>(IProxyFactory, Object[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_System_Object___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,System.Object[])
+  name.vb: CreateInterfaceProxy(Of TService, TImplementation)(IProxyFactory, Object())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy<TService, TImplementation>(AspectCore.Extensions.DynamicProxy.IProxyFactory, System.Object[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(Of TService, TImplementation)(AspectCore.Extensions.DynamicProxy.IProxyFactory, System.Object())
+  nameWithType: ProxyFactoryExtensions.CreateInterfaceProxy<TService, TImplementation>(IProxyFactory, Object[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateInterfaceProxy(Of TService, TImplementation)(IProxyFactory, Object())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,System.Object[],Type[])
+  name: CreateInterfaceProxy<TService, TImplementation>(IProxyFactory, Object[], Type[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_System_Object___Type___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,System.Object[],Type[])
+  name.vb: CreateInterfaceProxy(Of TService, TImplementation)(IProxyFactory, Object(), Type())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy<TService, TImplementation>(AspectCore.Extensions.DynamicProxy.IProxyFactory, System.Object[], Type[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(Of TService, TImplementation)(AspectCore.Extensions.DynamicProxy.IProxyFactory, System.Object(), Type())
+  nameWithType: ProxyFactoryExtensions.CreateInterfaceProxy<TService, TImplementation>(IProxyFactory, Object[], Type[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateInterfaceProxy(Of TService, TImplementation)(IProxyFactory, Object(), Type())
+- uid: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type[])
+  name: CreateInterfaceProxy<TService, TImplementation>(IProxyFactory, Type[])
+  href: api/AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.html#AspectCore_Extensions_DynamicProxy_ProxyFactoryExtensions_CreateInterfaceProxy__2_AspectCore_Extensions_DynamicProxy_IProxyFactory_Type___
+  commentId: M:AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy``2(AspectCore.Extensions.DynamicProxy.IProxyFactory,Type[])
+  name.vb: CreateInterfaceProxy(Of TService, TImplementation)(IProxyFactory, Type())
+  fullName: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy<TService, TImplementation>(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type[])
+  fullName.vb: AspectCore.Extensions.DynamicProxy.ProxyFactoryExtensions.CreateInterfaceProxy(Of TService, TImplementation)(AspectCore.Extensions.DynamicProxy.IProxyFactory, Type())
+  nameWithType: ProxyFactoryExtensions.CreateInterfaceProxy<TService, TImplementation>(IProxyFactory, Type[])
+  nameWithType.vb: ProxyFactoryExtensions.CreateInterfaceProxy(Of TService, TImplementation)(IProxyFactory, Type())
 - uid: AspectCore.Extensions.DynamicProxy.SimpleServiceProvider
   name: SimpleServiceProvider
   href: api/AspectCore.Extensions.DynamicProxy.SimpleServiceProvider.html
